@@ -1,0 +1,222 @@
+[
+  {
+    "problem_id": "PROB001",
+    "department_id": "DEPT001",
+    "title": "Lack of real-time visibility into housing scheme beneficiary across rural blocks",
+    "description": "The Ministry of Rural Development faces Lack of real-time visibility into housing scheme beneficiary across rural blocks. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment.",
+    "sector": "Rural Development",
+    "priority": "HIGH",
+    "status": "SUBMITTED",
+    "created_at": "2025-03-01T00:00:00",
+    "synthetic": true
+  },
+  {
+    "problem_id": "PROB002",
+    "department_id": "DEPT001",
+    "title": "Fragmented systems causing duplication in employment guarantee attendance record-keeping",
+    "description": "The Ministry of Rural Development faces Fragmented systems causing duplication in employment guarantee attendance record-keeping. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment.",
+    "sector": "Rural Development",
+    "priority": "LOW",
+    "status": "SUBMITTED",
+    "created_at": "2025-05-24T00:00:00",
+    "synthetic": true
+  },
+  {
+    "problem_id": "PROB003",
+    "department_id": "DEPT002",
+    "title": "High manual effort and delays in maternal health tracking verification processes",
+    "description": "The Ministry of Health & Family Welfare faces High manual effort and delays in maternal health tracking verification processes. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment.",
+    "sector": "Health & Family Welfare",
+    "priority": "LOW",
+    "status": "CHALLENGE_GENERATED",
+    "created_at": "2025-06-29T00:00:00",
+    "synthetic": true
+  },
+  {
+    "problem_id": "PROB004",
+    "department_id": "DEPT002",
+    "title": "Fragmented systems causing duplication in disease outbreak record-keeping",
+    "description": "The Ministry of Health & Family Welfare faces Fragmented systems causing duplication in disease outbreak record-keeping. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment.",
+    "sector": "Health & Family Welfare",
+    "priority": "MEDIUM",
+    "status": "SUBMITTED",
+    "created_at": "2025-04-25T00:00:00",
+    "synthetic": true
+  },
+  {
+    "problem_id": "PROB005",
+    "department_id": "DEPT003",
+    "title": "Fragmented systems causing duplication in crop yield record-keeping",
+    "description": "The Ministry of Agriculture & Farmers Welfare faces Fragmented systems causing duplication in crop yield record-keeping. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment.",
+    "sector": "Agriculture & Farmers Welfare",
+    "priority": "MEDIUM",
+    "status": "SUBMITTED",
+    "created_at": "2025-07-14T00:00:00",
+    "synthetic": true
+  },
+  {
+    "problem_id": "PROB006",
+    "department_id": "DEPT003",
+    "title": "High manual effort and delays in soil health verification processes",
+    "description": "The Ministry of Agriculture & Farmers Welfare faces High manual effort and delays in soil health verification processes. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment.",
+    "sector": "Agriculture & Farmers Welfare",
+    "priority": "LOW",
+    "status": "SUBMITTED",
+    "created_at": "2025-03-29T00:00:00",
+    "synthetic": true
+  },
+  {
+    "problem_id": "PROB007",
+    "department_id": "DEPT004",
+    "title": "Difficulty predicting road accident risks before they escalate",
+    "description": "The Ministry of Road Transport & Highways faces Difficulty predicting road accident risks before they escalate. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment.",
+    "sector": "Road Transport & Highways",
+    "priority": "HIGH",
+    "status": "SUBMITTED",
+    "created_at": "2025-07-15T00:00:00",
+    "synthetic": true
+  },
+  {
+    "problem_id": "PROB008",
+    "department_id": "DEPT004",
+    "title": "Difficulty predicting highway pothole risks before they escalate",
+    "description": "The Ministry of Road Transport & Highways faces Difficulty predicting highway pothole risks before they escalate. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment.",
+    "sector": "Road Transport & Highways",
+    "priority": "HIGH",
+    "status": "SUBMITTED",
+    "created_at": "2025-04-08T00:00:00",
+    "synthetic": true
+  },
+  {
+    "problem_id": "PROB009",
+    "department_id": "DEPT005",
+    "title": "Lack of real-time visibility into electricity distribution loss across rural blocks",
+    "description": "The Ministry of Power faces Lack of real-time visibility into electricity distribution loss across rural blocks. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment.",
+    "sector": "Power",
+    "priority": "MEDIUM",
+    "status": "SUBMITTED",
+    "created_at": "2025-06-04T00:00:00",
+    "synthetic": true
+  },
+  {
+    "problem_id": "PROB010",
+    "department_id": "DEPT005",
+    "title": "Difficulty predicting grid outage risks before they escalate",
+    "description": "The Ministry of Power faces Difficulty predicting grid outage risks before they escalate. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment.",
+    "sector": "Power",
+    "priority": "HIGH",
+    "status": "CHALLENGE_GENERATED",
+    "created_at": "2025-04-28T00:00:00",
+    "synthetic": true
+  },
+  {
+    "problem_id": "PROB011",
+    "department_id": "DEPT006",
+    "title": "Fragmented systems causing duplication in air quality record-keeping",
+    "description": "The Ministry of Environment, Forest & Climate Change faces Fragmented systems causing duplication in air quality record-keeping. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment.",
+    "sector": "Environment, Forest & Climate Change",
+    "priority": "HIGH",
+    "status": "SUBMITTED",
+    "created_at": "2025-01-21T00:00:00",
+    "synthetic": true
+  },
+  {
+    "problem_id": "PROB012",
+    "department_id": "DEPT006",
+    "title": "Fragmented systems causing duplication in illegal deforestation record-keeping",
+    "description": "The Ministry of Environment, Forest & Climate Change faces Fragmented systems causing duplication in illegal deforestation record-keeping. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment.",
+    "sector": "Environment, Forest & Climate Change",
+    "priority": "MEDIUM",
+    "status": "CHALLENGE_GENERATED",
+    "created_at": "2025-06-08T00:00:00",
+    "synthetic": true
+  },
+  {
+    "problem_id": "PROB013",
+    "department_id": "DEPT007",
+    "title": "Difficulty predicting student learning outcome risks before they escalate",
+    "description": "The Ministry of Education faces Difficulty predicting student learning outcome risks before they escalate. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment.",
+    "sector": "Education",
+    "priority": "LOW",
+    "status": "SUBMITTED",
+    "created_at": "2025-06-30T00:00:00",
+    "synthetic": true
+  },
+  {
+    "problem_id": "PROB014",
+    "department_id": "DEPT007",
+    "title": "Lack of real-time visibility into school infrastructure across rural blocks",
+    "description": "The Ministry of Education faces Lack of real-time visibility into school infrastructure across rural blocks. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment.",
+    "sector": "Education",
+    "priority": "HIGH",
+    "status": "CHALLENGE_GENERATED",
+    "created_at": "2025-02-28T00:00:00",
+    "synthetic": true
+  },
+  {
+    "problem_id": "PROB015",
+    "department_id": "DEPT008",
+    "title": "Difficulty predicting municipal waste collection risks before they escalate",
+    "description": "The Ministry of Urban Development faces Difficulty predicting municipal waste collection risks before they escalate. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment.",
+    "sector": "Urban Development",
+    "priority": "HIGH",
+    "status": "SUBMITTED",
+    "created_at": "2025-08-10T00:00:00",
+    "synthetic": true
+  },
+  {
+    "problem_id": "PROB016",
+    "department_id": "DEPT008",
+    "title": "Lack of real-time visibility into urban flooding across rural blocks",
+    "description": "The Ministry of Urban Development faces Lack of real-time visibility into urban flooding across rural blocks. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment.",
+    "sector": "Urban Development",
+    "priority": "MEDIUM",
+    "status": "SUBMITTED",
+    "created_at": "2025-04-27T00:00:00",
+    "synthetic": true
+  },
+  {
+    "problem_id": "PROB017",
+    "department_id": "DEPT009",
+    "title": "Limited access to affordable groundwater depletion solutions for underserved regions",
+    "description": "The Ministry of Jal Shakti faces Limited access to affordable groundwater depletion solutions for underserved regions. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment.",
+    "sector": "Jal Shakti",
+    "priority": "MEDIUM",
+    "status": "SUBMITTED",
+    "created_at": "2025-04-05T00:00:00",
+    "synthetic": true
+  },
+  {
+    "problem_id": "PROB018",
+    "department_id": "DEPT009",
+    "title": "Difficulty predicting water quality contamination risks before they escalate",
+    "description": "The Ministry of Jal Shakti faces Difficulty predicting water quality contamination risks before they escalate. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment.",
+    "sector": "Jal Shakti",
+    "priority": "HIGH",
+    "status": "CHALLENGE_GENERATED",
+    "created_at": "2025-03-10T00:00:00",
+    "synthetic": true
+  },
+  {
+    "problem_id": "PROB019",
+    "department_id": "DEPT010",
+    "title": "Limited access to affordable msme loan disbursement solutions for underserved regions",
+    "description": "The Ministry of Micro, Small & Medium Enterprises faces Limited access to affordable MSME loan disbursement solutions for underserved regions. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment.",
+    "sector": "Micro, Small & Medium Enterprises",
+    "priority": "LOW",
+    "status": "CHALLENGE_GENERATED",
+    "created_at": "2025-01-19T00:00:00",
+    "synthetic": true
+  },
+  {
+    "problem_id": "PROB020",
+    "department_id": "DEPT010",
+    "title": "Fragmented systems causing duplication in gst compliance record-keeping",
+    "description": "The Ministry of Micro, Small & Medium Enterprises faces Fragmented systems causing duplication in GST compliance record-keeping. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment.",
+    "sector": "Micro, Small & Medium Enterprises",
+    "priority": "LOW",
+    "status": "SUBMITTED",
+    "created_at": "2025-05-17T00:00:00",
+    "synthetic": true
+  }
+]

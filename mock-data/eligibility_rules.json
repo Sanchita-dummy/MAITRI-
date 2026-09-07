@@ -1,0 +1,178 @@
+[
+  {
+    "rule_id": "RULE001",
+    "challenge_id": "CHAL001",
+    "rule_type": "min_deployment_capacity",
+    "label": "Minimum Deployment Capacity",
+    "required_value": "Regional (state-level)",
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE002",
+    "challenge_id": "CHAL001",
+    "rule_type": "certification_required",
+    "label": "Required Certification",
+    "required_value": "SOC 2 Type II",
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE003",
+    "challenge_id": "CHAL001",
+    "rule_type": "government_experience",
+    "label": "Prior Government Experience Required",
+    "required_value": true,
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE004",
+    "challenge_id": "CHAL002",
+    "rule_type": "min_trl",
+    "label": "Minimum TRL Level",
+    "required_value": 4,
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE005",
+    "challenge_id": "CHAL002",
+    "rule_type": "government_experience",
+    "label": "Prior Government Experience Required",
+    "required_value": true,
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE006",
+    "challenge_id": "CHAL003",
+    "rule_type": "min_trl",
+    "label": "Minimum TRL Level",
+    "required_value": 5,
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE007",
+    "challenge_id": "CHAL003",
+    "rule_type": "government_experience",
+    "label": "Prior Government Experience Required",
+    "required_value": true,
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE008",
+    "challenge_id": "CHAL003",
+    "rule_type": "sector_match",
+    "label": "Sector Compatibility Required",
+    "required_value": true,
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE009",
+    "challenge_id": "CHAL004",
+    "rule_type": "certification_required",
+    "label": "Required Certification",
+    "required_value": "SOC 2 Type II",
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE010",
+    "challenge_id": "CHAL004",
+    "rule_type": "min_deployment_capacity",
+    "label": "Minimum Deployment Capacity",
+    "required_value": "Pilot only (1-2 sites)",
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE011",
+    "challenge_id": "CHAL005",
+    "rule_type": "min_deployment_capacity",
+    "label": "Minimum Deployment Capacity",
+    "required_value": "Pilot only (1-2 sites)",
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE012",
+    "challenge_id": "CHAL005",
+    "rule_type": "min_trl",
+    "label": "Minimum TRL Level",
+    "required_value": 4,
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE013",
+    "challenge_id": "CHAL006",
+    "rule_type": "min_deployment_capacity",
+    "label": "Minimum Deployment Capacity",
+    "required_value": "Regional (state-level)",
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE014",
+    "challenge_id": "CHAL006",
+    "rule_type": "min_trl",
+    "label": "Minimum TRL Level",
+    "required_value": 4,
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE015",
+    "challenge_id": "CHAL006",
+    "rule_type": "government_experience",
+    "label": "Prior Government Experience Required",
+    "required_value": false,
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE016",
+    "challenge_id": "CHAL007",
+    "rule_type": "min_trl",
+    "label": "Minimum TRL Level",
+    "required_value": 3,
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE017",
+    "challenge_id": "CHAL007",
+    "rule_type": "government_experience",
+    "label": "Prior Government Experience Required",
+    "required_value": true,
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE018",
+    "challenge_id": "CHAL008",
+    "rule_type": "min_deployment_capacity",
+    "label": "Minimum Deployment Capacity",
+    "required_value": "Regional (state-level)",
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE019",
+    "challenge_id": "CHAL008",
+    "rule_type": "min_trl",
+    "label": "Minimum TRL Level",
+    "required_value": 5,
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE020",
+    "challenge_id": "CHAL008",
+    "rule_type": "government_experience",
+    "label": "Prior Government Experience Required",
+    "required_value": false,
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE021",
+    "challenge_id": "CHAL009",
+    "rule_type": "government_experience",
+    "label": "Prior Government Experience Required",
+    "required_value": false,
+    "synthetic": true
+  },
+  {
+    "rule_id": "RULE022",
+    "challenge_id": "CHAL009",
+    "rule_type": "min_trl",
+    "label": "Minimum TRL Level",
+    "required_value": 4,
+    "synthetic": true
+  }
+]

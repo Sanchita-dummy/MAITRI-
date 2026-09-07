@@ -1,0 +1,82 @@
+[
+  {
+    "department_id": "DEPT001",
+    "name": "Ministry of Rural Development",
+    "description": "Rural infrastructure, livelihoods, and welfare schemes",
+    "sector": "Rural Development",
+    "contact_region": "National",
+    "synthetic": true
+  },
+  {
+    "department_id": "DEPT002",
+    "name": "Ministry of Health & Family Welfare",
+    "description": "Public health delivery and disease surveillance",
+    "sector": "Health & Family Welfare",
+    "contact_region": "National",
+    "synthetic": true
+  },
+  {
+    "department_id": "DEPT003",
+    "name": "Ministry of Agriculture & Farmers Welfare",
+    "description": "Farm productivity, supply chain, and farmer income",
+    "sector": "Agriculture & Farmers Welfare",
+    "contact_region": "New Delhi HQ",
+    "synthetic": true
+  },
+  {
+    "department_id": "DEPT004",
+    "name": "Ministry of Road Transport & Highways",
+    "description": "Road safety, traffic management, and highway infrastructure",
+    "sector": "Road Transport & Highways",
+    "contact_region": "National",
+    "synthetic": true
+  },
+  {
+    "department_id": "DEPT005",
+    "name": "Ministry of Power",
+    "description": "Electricity distribution, grid modernization, and renewable integration",
+    "sector": "Power",
+    "contact_region": "National",
+    "synthetic": true
+  },
+  {
+    "department_id": "DEPT006",
+    "name": "Ministry of Environment, Forest & Climate Change",
+    "description": "Pollution monitoring and climate resilience",
+    "sector": "Environment, Forest & Climate Change",
+    "contact_region": "National",
+    "synthetic": true
+  },
+  {
+    "department_id": "DEPT007",
+    "name": "Ministry of Education",
+    "description": "School education quality and digital learning access",
+    "sector": "Education",
+    "contact_region": "National",
+    "synthetic": true
+  },
+  {
+    "department_id": "DEPT008",
+    "name": "Ministry of Urban Development",
+    "description": "Smart city infrastructure and municipal services",
+    "sector": "Urban Development",
+    "contact_region": "National",
+    "synthetic": true
+  },
+  {
+    "department_id": "DEPT009",
+    "name": "Ministry of Jal Shakti",
+    "description": "Water resource management and sanitation",
+    "sector": "Jal Shakti",
+    "contact_region": "New Delhi HQ",
+    "synthetic": true
+  },
+  {
+    "department_id": "DEPT010",
+    "name": "Ministry of Micro, Small & Medium Enterprises",
+    "description": "MSME credit access and digitization",
+    "sector": "Micro, Small & Medium Enterprises",
+    "contact_region": "National",
+    "synthetic": true
+  }
+]

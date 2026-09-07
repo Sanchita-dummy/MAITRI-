@@ -1,0 +1,272 @@
+[
+  {
+    "application_id": "APP001",
+    "challenge_id": "CHAL015",
+    "startup_id": "STU043",
+    "status": "SUBMITTED",
+    "match_score": 82.8,
+    "submitted_at": "2025-05-25T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP002",
+    "challenge_id": "CHAL003",
+    "startup_id": "STU003",
+    "status": "APPROVED",
+    "match_score": 68.9,
+    "submitted_at": "2025-04-14T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP003",
+    "challenge_id": "CHAL013",
+    "startup_id": "STU030",
+    "status": "REJECTED",
+    "match_score": 74.2,
+    "submitted_at": "2025-04-04T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP004",
+    "challenge_id": "CHAL002",
+    "startup_id": "STU046",
+    "status": "REJECTED",
+    "match_score": 37.3,
+    "submitted_at": "2025-04-21T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP005",
+    "challenge_id": "CHAL001",
+    "startup_id": "STU013",
+    "status": "SUBMITTED",
+    "match_score": 54.6,
+    "submitted_at": "2025-05-19T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP006",
+    "challenge_id": "CHAL011",
+    "startup_id": "STU026",
+    "status": "REJECTED",
+    "match_score": 50.7,
+    "submitted_at": "2025-04-18T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP007",
+    "challenge_id": "CHAL005",
+    "startup_id": "STU023",
+    "status": "SUBMITTED",
+    "match_score": 88.7,
+    "submitted_at": "2025-05-24T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP008",
+    "challenge_id": "CHAL005",
+    "startup_id": "STU008",
+    "status": "APPROVED",
+    "match_score": 62.1,
+    "submitted_at": "2025-06-11T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP009",
+    "challenge_id": "CHAL015",
+    "startup_id": "STU029",
+    "status": "REJECTED",
+    "match_score": 56.0,
+    "submitted_at": "2025-04-17T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP010",
+    "challenge_id": "CHAL009",
+    "startup_id": "STU045",
+    "status": "REJECTED",
+    "match_score": 57.8,
+    "submitted_at": "2025-07-11T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP011",
+    "challenge_id": "CHAL005",
+    "startup_id": "STU006",
+    "status": "REJECTED",
+    "match_score": 39.9,
+    "submitted_at": "2025-04-16T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP012",
+    "challenge_id": "CHAL011",
+    "startup_id": "STU019",
+    "status": "APPROVED",
+    "match_score": 41.4,
+    "submitted_at": "2025-05-23T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP013",
+    "challenge_id": "CHAL013",
+    "startup_id": "STU019",
+    "status": "APPROVED",
+    "match_score": 62.6,
+    "submitted_at": "2025-06-18T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP014",
+    "challenge_id": "CHAL003",
+    "startup_id": "STU045",
+    "status": "REJECTED",
+    "match_score": 56.8,
+    "submitted_at": "2025-03-11T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP015",
+    "challenge_id": "CHAL015",
+    "startup_id": "STU023",
+    "status": "REJECTED",
+    "match_score": 52.0,
+    "submitted_at": "2025-03-15T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP016",
+    "challenge_id": "CHAL002",
+    "startup_id": "STU043",
+    "status": "REJECTED",
+    "match_score": 57.5,
+    "submitted_at": "2025-04-10T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP017",
+    "challenge_id": "CHAL001",
+    "startup_id": "STU010",
+    "status": "REJECTED",
+    "match_score": 37.2,
+    "submitted_at": "2025-03-18T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP018",
+    "challenge_id": "CHAL004",
+    "startup_id": "STU042",
+    "status": "APPROVED",
+    "match_score": 57.5,
+    "submitted_at": "2025-07-24T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP019",
+    "challenge_id": "CHAL001",
+    "startup_id": "STU039",
+    "status": "UNDER_REVIEW",
+    "match_score": 77.1,
+    "submitted_at": "2025-06-03T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP020",
+    "challenge_id": "CHAL007",
+    "startup_id": "STU029",
+    "status": "SUBMITTED",
+    "match_score": 70.6,
+    "submitted_at": "2025-07-14T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP021",
+    "challenge_id": "CHAL007",
+    "startup_id": "STU026",
+    "status": "APPROVED",
+    "match_score": 75.3,
+    "submitted_at": "2025-05-03T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP022",
+    "challenge_id": "CHAL002",
+    "startup_id": "STU002",
+    "status": "UNDER_REVIEW",
+    "match_score": 65.9,
+    "submitted_at": "2025-06-08T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP023",
+    "challenge_id": "CHAL011",
+    "startup_id": "STU008",
+    "status": "APPROVED",
+    "match_score": 83.0,
+    "submitted_at": "2025-06-23T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP024",
+    "challenge_id": "CHAL004",
+    "startup_id": "STU040",
+    "status": "APPROVED",
+    "match_score": 78.0,
+    "submitted_at": "2025-07-04T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP025",
+    "challenge_id": "CHAL004",
+    "startup_id": "STU008",
+    "status": "UNDER_REVIEW",
+    "match_score": 87.9,
+    "submitted_at": "2025-06-24T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP026",
+    "challenge_id": "CHAL003",
+    "startup_id": "STU046",
+    "status": "REJECTED",
+    "match_score": 96.8,
+    "submitted_at": "2025-05-21T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP027",
+    "challenge_id": "CHAL013",
+    "startup_id": "STU023",
+    "status": "SUBMITTED",
+    "match_score": 69.1,
+    "submitted_at": "2025-05-14T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP028",
+    "challenge_id": "CHAL005",
+    "startup_id": "STU011",
+    "status": "UNDER_REVIEW",
+    "match_score": 84.2,
+    "submitted_at": "2025-07-09T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP029",
+    "challenge_id": "CHAL004",
+    "startup_id": "STU008",
+    "status": "UNDER_REVIEW",
+    "match_score": 84.1,
+    "submitted_at": "2025-04-30T00:00:00",
+    "synthetic": true
+  },
+  {
+    "application_id": "APP030",
+    "challenge_id": "CHAL009",
+    "startup_id": "STU002",
+    "status": "APPROVED",
+    "match_score": 69.3,
+    "submitted_at": "2025-06-03T00:00:00",
+    "synthetic": true
+  }
+]

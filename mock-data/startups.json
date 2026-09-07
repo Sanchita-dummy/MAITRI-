@@ -1,0 +1,1974 @@
+[
+  {
+    "startup_id": "STU001",
+    "company_name": "FasalSolutions Pvt Ltd",
+    "description": "FasalSolutions builds LoRaWAN Networks-powered solutions for the agritech sector, focused on pest detection, farm-to-market logistics. Headquartered in Kochi, the team has deployed solutions across 9 Indian states.",
+    "sectors": [
+      "AgriTech",
+      "GovTech"
+    ],
+    "technologies": [
+      "IoT Sensors",
+      "LoRaWAN Networks",
+      "Drone Imaging"
+    ],
+    "capabilities": [
+      "pest detection",
+      "farm-to-market logistics",
+      "soil analysis",
+      "scheme beneficiary verification",
+      "e-governance workflows"
+    ],
+    "products": [
+      "FasalSolutions Platform"
+    ],
+    "trl_level": 6,
+    "headquarters": "Kochi, Kerala",
+    "operating_regions": [
+      "Karnataka",
+      "Gujarat"
+    ],
+    "team_size": 30,
+    "previous_pilots": 3,
+    "government_experience": true,
+    "certifications": [
+      "ISO 9001",
+      "SOC 2 Type II"
+    ],
+    "deployment_capacity": "Pilot only (1-2 sites)",
+    "funding_stage": "Pre-Seed",
+    "founded_year": 2023,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU002",
+    "company_name": "AkashSystems Pvt Ltd",
+    "description": "AkashSystems builds GIS Mapping-powered solutions for the healthtech sector, focused on GST automation, remote diagnostics. Headquartered in Pune, the team has deployed solutions across 9 Indian states.",
+    "sectors": [
+      "HealthTech",
+      "FinTech for MSME"
+    ],
+    "technologies": [
+      "IoT Sensors",
+      "AI/ML",
+      "Drone Imaging",
+      "GIS Mapping",
+      "Robotics"
+    ],
+    "capabilities": [
+      "GST automation",
+      "remote diagnostics",
+      "telemedicine"
+    ],
+    "products": [
+      "AkashSystems Analytics Stack"
+    ],
+    "trl_level": 3,
+    "headquarters": "Pune, Maharashtra",
+    "operating_regions": [
+      "Maharashtra",
+      "Gujarat",
+      "Karnataka"
+    ],
+    "team_size": 15,
+    "previous_pilots": 1,
+    "government_experience": true,
+    "certifications": [
+      "DPIIT Recognized"
+    ],
+    "deployment_capacity": "Pilot only (1-2 sites)",
+    "funding_stage": "Series A",
+    "founded_year": 2019,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU003",
+    "company_name": "SagarInnovations Pvt Ltd",
+    "description": "SagarInnovations builds LoRaWAN Networks-powered solutions for the cleantech sector, focused on waste-to-energy, emissions tracking. Headquartered in Chandigarh, the team has deployed solutions across 10 Indian states.",
+    "sectors": [
+      "CleanTech",
+      "FinTech for MSME"
+    ],
+    "technologies": [
+      "Predictive Analytics",
+      "GIS Mapping",
+      "AI/ML",
+      "LoRaWAN Networks",
+      "Blockchain"
+    ],
+    "capabilities": [
+      "waste-to-energy",
+      "emissions tracking",
+      "renewable energy monitoring"
+    ],
+    "products": [
+      "SagarInnovations Engine"
+    ],
+    "trl_level": 3,
+    "headquarters": "Chandigarh, Punjab",
+    "operating_regions": [
+      "Kerala",
+      "Telangana"
+    ],
+    "team_size": 5,
+    "previous_pilots": 4,
+    "government_experience": true,
+    "certifications": [
+      "ISO 9001"
+    ],
+    "deployment_capacity": "Pan-India",
+    "funding_stage": "Bootstrapped",
+    "founded_year": 2018,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU004",
+    "company_name": "VayuLabs Pvt Ltd",
+    "description": "VayuLabs builds Drone Imaging-powered solutions for the mobilitytech sector, focused on smart parking, citizen grievance analytics. Headquartered in Indore, the team has deployed solutions across 12 Indian states.",
+    "sectors": [
+      "MobilityTech",
+      "GovTech"
+    ],
+    "technologies": [
+      "Computer Vision",
+      "Drone Imaging",
+      "Predictive Analytics",
+      "Blockchain"
+    ],
+    "capabilities": [
+      "smart parking",
+      "citizen grievance analytics",
+      "EV fleet management"
+    ],
+    "products": [
+      "VayuLabs OS"
+    ],
+    "trl_level": 4,
+    "headquarters": "Indore, Madhya Pradesh",
+    "operating_regions": [
+      "Uttar Pradesh",
+      "Tamil Nadu",
+      "Telangana",
+      "Karnataka",
+      "Rajasthan"
+    ],
+    "team_size": 20,
+    "previous_pilots": 3,
+    "government_experience": true,
+    "certifications": [],
+    "deployment_capacity": "Pilot only (1-2 sites)",
+    "funding_stage": "Series B",
+    "founded_year": 2018,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU005",
+    "company_name": "SurakshaInnovations Pvt Ltd",
+    "description": "SurakshaInnovations builds Predictive Analytics-powered solutions for the govtech sector, focused on e-governance workflows, renewable energy monitoring. Headquartered in Lucknow, the team has deployed solutions across 12 Indian states.",
+    "sectors": [
+      "GovTech",
+      "CleanTech"
+    ],
+    "technologies": [
+      "Robotics",
+      "GIS Mapping",
+      "Predictive Analytics",
+      "NLP"
+    ],
+    "capabilities": [
+      "e-governance workflows",
+      "renewable energy monitoring",
+      "scheme beneficiary verification"
+    ],
+    "products": [
+      "SurakshaInnovations Suite"
+    ],
+    "trl_level": 7,
+    "headquarters": "Lucknow, Uttar Pradesh",
+    "operating_regions": [
+      "Haryana",
+      "Telangana",
+      "Maharashtra"
+    ],
+    "team_size": 90,
+    "previous_pilots": 0,
+    "government_experience": false,
+    "certifications": [
+      "MeitY Startup Hub Recognized"
+    ],
+    "deployment_capacity": "Regional (state-level)",
+    "funding_stage": "Series B",
+    "founded_year": 2018,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU006",
+    "company_name": "NirikshanNetworks Pvt Ltd",
+    "description": "NirikshanNetworks builds AI/ML-powered solutions for the edtech sector, focused on vernacular content delivery, learning outcome analytics. Headquartered in Bhubaneswar, the team has deployed solutions across 4 Indian states.",
+    "sectors": [
+      "EdTech",
+      "MobilityTech"
+    ],
+    "technologies": [
+      "Robotics",
+      "NLP",
+      "AI/ML",
+      "AR/VR"
+    ],
+    "capabilities": [
+      "vernacular content delivery",
+      "learning outcome analytics",
+      "EV fleet management",
+      "smart parking"
+    ],
+    "products": [
+      "NirikshanNetworks Analytics Stack"
+    ],
+    "trl_level": 5,
+    "headquarters": "Bhubaneswar, Odisha",
+    "operating_regions": [
+      "Punjab",
+      "Gujarat",
+      "Kerala",
+      "Karnataka",
+      "Telangana",
+      "Odisha"
+    ],
+    "team_size": 12,
+    "previous_pilots": 5,
+    "government_experience": true,
+    "certifications": [
+      "ISO 27001"
+    ],
+    "deployment_capacity": "Regional (state-level)",
+    "funding_stage": "Series B",
+    "founded_year": 2023,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU007",
+    "company_name": "BhoomiDynamics Pvt Ltd",
+    "description": "BhoomiDynamics builds Blockchain-powered solutions for the watertech sector, focused on leak detection, water quality testing. Headquartered in Bengaluru, the team has deployed solutions across 14 Indian states.",
+    "sectors": [
+      "WaterTech",
+      "CleanTech"
+    ],
+    "technologies": [
+      "IoT Sensors",
+      "Blockchain",
+      "AR/VR",
+      "GIS Mapping",
+      "Cloud Analytics"
+    ],
+    "capabilities": [
+      "leak detection",
+      "water quality testing",
+      "waste-to-energy"
+    ],
+    "products": [
+      "BhoomiDynamics Engine"
+    ],
+    "trl_level": 7,
+    "headquarters": "Bengaluru, Karnataka",
+    "operating_regions": [
+      "Karnataka",
+      "Maharashtra",
+      "Punjab",
+      "Uttar Pradesh",
+      "Gujarat"
+    ],
+    "team_size": 12,
+    "previous_pilots": 1,
+    "government_experience": true,
+    "certifications": [
+      "MeitY Startup Hub Recognized"
+    ],
+    "deployment_capacity": "Pilot only (1-2 sites)",
+    "funding_stage": "Growth",
+    "founded_year": 2016,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU008",
+    "company_name": "TarangTech Pvt Ltd",
+    "description": "TarangTech builds IoT Sensors-powered solutions for the fintech for msme sector, focused on invoice financing, GST automation. Headquartered in Chennai, the team has deployed solutions across 8 Indian states.",
+    "sectors": [
+      "FinTech for MSME",
+      "Climate & Environment"
+    ],
+    "technologies": [
+      "Computer Vision",
+      "Cloud Analytics",
+      "Blockchain",
+      "NLP",
+      "IoT Sensors"
+    ],
+    "capabilities": [
+      "invoice financing",
+      "GST automation",
+      "deforestation detection",
+      "credit scoring"
+    ],
+    "products": [
+      "TarangTech Hub"
+    ],
+    "trl_level": 9,
+    "headquarters": "Chennai, Tamil Nadu",
+    "operating_regions": [
+      "Telangana",
+      "Haryana"
+    ],
+    "team_size": 20,
+    "previous_pilots": 2,
+    "government_experience": true,
+    "certifications": [
+      "MeitY Startup Hub Recognized"
+    ],
+    "deployment_capacity": "Pilot only (1-2 sites)",
+    "funding_stage": "Bootstrapped",
+    "founded_year": 2021,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU009",
+    "company_name": "SamvadNetworks Pvt Ltd",
+    "description": "SamvadNetworks builds AR/VR-powered solutions for the climate & environment sector, focused on deforestation detection, carbon accounting. Headquartered in Indore, the team has deployed solutions across 3 Indian states.",
+    "sectors": [
+      "Climate & Environment",
+      "WaterTech"
+    ],
+    "technologies": [
+      "GIS Mapping",
+      "AR/VR",
+      "LoRaWAN Networks"
+    ],
+    "capabilities": [
+      "deforestation detection",
+      "carbon accounting",
+      "air quality monitoring",
+      "groundwater monitoring",
+      "water quality testing"
+    ],
+    "products": [
+      "SamvadNetworks Hub"
+    ],
+    "trl_level": 8,
+    "headquarters": "Indore, Madhya Pradesh",
+    "operating_regions": [
+      "Uttar Pradesh",
+      "Odisha",
+      "Telangana",
+      "Punjab",
+      "Haryana",
+      "Kerala"
+    ],
+    "team_size": 15,
+    "previous_pilots": 2,
+    "government_experience": true,
+    "certifications": [
+      "DPIIT Recognized",
+      "STQC Certified"
+    ],
+    "deployment_capacity": "Regional (state-level)",
+    "funding_stage": "Growth",
+    "founded_year": 2019,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU010",
+    "company_name": "ShaktiSystems Pvt Ltd",
+    "description": "ShaktiSystems builds Edge Computing-powered solutions for the smart infrastructure sector, focused on predictive maintenance, smart parking. Headquartered in Ahmedabad, the team has deployed solutions across 9 Indian states.",
+    "sectors": [
+      "Smart Infrastructure",
+      "MobilityTech"
+    ],
+    "technologies": [
+      "NLP",
+      "Computer Vision",
+      "Cloud Analytics",
+      "Edge Computing"
+    ],
+    "capabilities": [
+      "predictive maintenance",
+      "smart parking",
+      "smart metering",
+      "EV fleet management",
+      "asset monitoring"
+    ],
+    "products": [
+      "ShaktiSystems Dashboard"
+    ],
+    "trl_level": 7,
+    "headquarters": "Ahmedabad, Gujarat",
+    "operating_regions": [
+      "Rajasthan",
+      "Tamil Nadu",
+      "Maharashtra",
+      "Punjab",
+      "Maharashtra",
+      "Telangana"
+    ],
+    "team_size": 30,
+    "previous_pilots": 3,
+    "government_experience": true,
+    "certifications": [
+      "GeM Registered",
+      "ISO 27001"
+    ],
+    "deployment_capacity": "Pilot only (1-2 sites)",
+    "funding_stage": "Growth",
+    "founded_year": 2019,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU011",
+    "company_name": "NetraAI Pvt Ltd",
+    "description": "NetraAI builds Predictive Analytics-powered solutions for the cleantech sector, focused on renewable energy monitoring, solar grid optimization. Headquartered in Bengaluru, the team has deployed solutions across 14 Indian states.",
+    "sectors": [
+      "CleanTech",
+      "AgriTech"
+    ],
+    "technologies": [
+      "Predictive Analytics",
+      "Cloud Analytics",
+      "Mobile Apps",
+      "Robotics",
+      "Computer Vision"
+    ],
+    "capabilities": [
+      "renewable energy monitoring",
+      "solar grid optimization",
+      "soil analysis",
+      "waste-to-energy",
+      "farm-to-market logistics"
+    ],
+    "products": [
+      "NetraAI Cloud"
+    ],
+    "trl_level": 4,
+    "headquarters": "Bengaluru, Karnataka",
+    "operating_regions": [
+      "Maharashtra",
+      "Tamil Nadu",
+      "Punjab"
+    ],
+    "team_size": 5,
+    "previous_pilots": 6,
+    "government_experience": true,
+    "certifications": [
+      "ISO 27001",
+      "MeitY Startup Hub Recognized",
+      "ISO 9001"
+    ],
+    "deployment_capacity": "Pilot only (1-2 sites)",
+    "funding_stage": "Series A",
+    "founded_year": 2017,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU012",
+    "company_name": "SagarNetworks Pvt Ltd",
+    "description": "SagarNetworks builds Computer Vision-powered solutions for the fintech for msme sector, focused on export documentation, asset monitoring. Headquartered in Ahmedabad, the team has deployed solutions across 7 Indian states.",
+    "sectors": [
+      "FinTech for MSME",
+      "Smart Infrastructure"
+    ],
+    "technologies": [
+      "Mobile Apps",
+      "Drone Imaging",
+      "Computer Vision",
+      "NLP",
+      "LoRaWAN Networks"
+    ],
+    "capabilities": [
+      "export documentation",
+      "asset monitoring",
+      "invoice financing",
+      "credit scoring",
+      "GST automation"
+    ],
+    "products": [
+      "SagarNetworks Hub"
+    ],
+    "trl_level": 3,
+    "headquarters": "Ahmedabad, Gujarat",
+    "operating_regions": [
+      "Telangana",
+      "Maharashtra",
+      "Maharashtra",
+      "Tamil Nadu",
+      "Gujarat",
+      "Tamil Nadu"
+    ],
+    "team_size": 20,
+    "previous_pilots": 1,
+    "government_experience": true,
+    "certifications": [
+      "ISO 9001"
+    ],
+    "deployment_capacity": "Regional (state-level)",
+    "funding_stage": "Series A",
+    "founded_year": 2020,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU013",
+    "company_name": "KrantiSolutions Pvt Ltd",
+    "description": "KrantiSolutions builds AR/VR-powered solutions for the watertech sector, focused on pest detection, groundwater monitoring. Headquartered in Chennai, the team has deployed solutions across 9 Indian states.",
+    "sectors": [
+      "WaterTech",
+      "AgriTech"
+    ],
+    "technologies": [
+      "NLP",
+      "AR/VR",
+      "Cloud Analytics",
+      "Robotics"
+    ],
+    "capabilities": [
+      "pest detection",
+      "groundwater monitoring",
+      "sewage treatment optimization",
+      "water quality testing",
+      "farm-to-market logistics"
+    ],
+    "products": [
+      "KrantiSolutions Dashboard"
+    ],
+    "trl_level": 7,
+    "headquarters": "Chennai, Tamil Nadu",
+    "operating_regions": [
+      "Gujarat",
+      "Rajasthan",
+      "Karnataka",
+      "Uttar Pradesh"
+    ],
+    "team_size": 90,
+    "previous_pilots": 6,
+    "government_experience": true,
+    "certifications": [
+      "DPIIT Recognized",
+      "GeM Registered"
+    ],
+    "deployment_capacity": "Pilot only (1-2 sites)",
+    "funding_stage": "Series A",
+    "founded_year": 2017,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU014",
+    "company_name": "AarogyaTech Pvt Ltd",
+    "description": "AarogyaTech builds AR/VR-powered solutions for the watertech sector, focused on water quality testing, groundwater monitoring. Headquartered in Hyderabad, the team has deployed solutions across 6 Indian states.",
+    "sectors": [
+      "WaterTech",
+      "AgriTech"
+    ],
+    "technologies": [
+      "Computer Vision",
+      "Mobile Apps",
+      "Blockchain",
+      "AR/VR"
+    ],
+    "capabilities": [
+      "water quality testing",
+      "groundwater monitoring",
+      "leak detection",
+      "soil analysis"
+    ],
+    "products": [
+      "AarogyaTech Suite"
+    ],
+    "trl_level": 9,
+    "headquarters": "Hyderabad, Telangana",
+    "operating_regions": [
+      "Karnataka",
+      "Punjab",
+      "Kerala",
+      "Uttar Pradesh",
+      "Uttar Pradesh"
+    ],
+    "team_size": 45,
+    "previous_pilots": 2,
+    "government_experience": true,
+    "certifications": [
+      "ISO 9001"
+    ],
+    "deployment_capacity": "Pan-India",
+    "funding_stage": "Bootstrapped",
+    "founded_year": 2015,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU015",
+    "company_name": "AadharAI Pvt Ltd",
+    "description": "AadharAI builds Blockchain-powered solutions for the agritech sector, focused on crop health monitoring, pest detection. Headquartered in Chennai, the team has deployed solutions across 6 Indian states.",
+    "sectors": [
+      "AgriTech",
+      "MobilityTech"
+    ],
+    "technologies": [
+      "AR/VR",
+      "Blockchain",
+      "Satellite Imagery",
+      "Edge Computing"
+    ],
+    "capabilities": [
+      "crop health monitoring",
+      "pest detection",
+      "soil analysis",
+      "farm-to-market logistics",
+      "yield prediction"
+    ],
+    "products": [
+      "AadharAI Suite"
+    ],
+    "trl_level": 7,
+    "headquarters": "Chennai, Tamil Nadu",
+    "operating_regions": [
+      "Karnataka",
+      "Haryana",
+      "Madhya Pradesh",
+      "Odisha",
+      "Gujarat",
+      "Punjab"
+    ],
+    "team_size": 8,
+    "previous_pilots": 6,
+    "government_experience": true,
+    "certifications": [
+      "ISO 9001"
+    ],
+    "deployment_capacity": "Pan-India",
+    "funding_stage": "Growth",
+    "founded_year": 2018,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU016",
+    "company_name": "SetuInnovations Pvt Ltd",
+    "description": "SetuInnovations builds Cloud Analytics-powered solutions for the smart infrastructure sector, focused on supply chain for medicines, waste collection optimization. Headquartered in Coimbatore, the team has deployed solutions across 13 Indian states.",
+    "sectors": [
+      "Smart Infrastructure",
+      "HealthTech"
+    ],
+    "technologies": [
+      "Drone Imaging",
+      "Blockchain",
+      "AI/ML",
+      "Cloud Analytics",
+      "Mobile Apps"
+    ],
+    "capabilities": [
+      "supply chain for medicines",
+      "waste collection optimization",
+      "smart metering",
+      "asset monitoring"
+    ],
+    "products": [
+      "SetuInnovations Engine"
+    ],
+    "trl_level": 3,
+    "headquarters": "Coimbatore, Tamil Nadu",
+    "operating_regions": [
+      "Maharashtra",
+      "Punjab",
+      "Kerala",
+      "Odisha",
+      "Haryana"
+    ],
+    "team_size": 45,
+    "previous_pilots": 2,
+    "government_experience": true,
+    "certifications": [
+      "SOC 2 Type II",
+      "CERT-In Empanelled",
+      "GeM Registered"
+    ],
+    "deployment_capacity": "Pan-India",
+    "funding_stage": "Seed",
+    "founded_year": 2020,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU017",
+    "company_name": "AadharLabs Pvt Ltd",
+    "description": "AadharLabs builds Computer Vision-powered solutions for the govtech sector, focused on carbon accounting, fraud detection. Headquartered in Chennai, the team has deployed solutions across 11 Indian states.",
+    "sectors": [
+      "GovTech",
+      "Climate & Environment"
+    ],
+    "technologies": [
+      "Satellite Imagery",
+      "Mobile Apps",
+      "Computer Vision",
+      "Blockchain"
+    ],
+    "capabilities": [
+      "carbon accounting",
+      "fraud detection",
+      "e-governance workflows",
+      "citizen grievance analytics",
+      "scheme beneficiary verification"
+    ],
+    "products": [
+      "AadharLabs OS"
+    ],
+    "trl_level": 9,
+    "headquarters": "Chennai, Tamil Nadu",
+    "operating_regions": [
+      "Karnataka",
+      "Kerala",
+      "Tamil Nadu",
+      "Telangana",
+      "Tamil Nadu",
+      "Gujarat"
+    ],
+    "team_size": 20,
+    "previous_pilots": 2,
+    "government_experience": true,
+    "certifications": [
+      "CERT-In Empanelled",
+      "GeM Registered",
+      "SOC 2 Type II"
+    ],
+    "deployment_capacity": "Pan-India",
+    "funding_stage": "Growth",
+    "founded_year": 2022,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU018",
+    "company_name": "AkashTech Pvt Ltd",
+    "description": "AkashTech builds Robotics-powered solutions for the healthtech sector, focused on disease surveillance, adaptive learning. Headquartered in Chennai, the team has deployed solutions across 13 Indian states.",
+    "sectors": [
+      "HealthTech",
+      "EdTech"
+    ],
+    "technologies": [
+      "Mobile Apps",
+      "GIS Mapping",
+      "Robotics",
+      "Blockchain"
+    ],
+    "capabilities": [
+      "disease surveillance",
+      "adaptive learning",
+      "supply chain for medicines"
+    ],
+    "products": [
+      "AkashTech Analytics Stack"
+    ],
+    "trl_level": 6,
+    "headquarters": "Chennai, Tamil Nadu",
+    "operating_regions": [
+      "Haryana",
+      "Uttar Pradesh",
+      "Tamil Nadu",
+      "Telangana"
+    ],
+    "team_size": 90,
+    "previous_pilots": 2,
+    "government_experience": true,
+    "certifications": [
+      "GeM Registered"
+    ],
+    "deployment_capacity": "Pilot only (1-2 sites)",
+    "funding_stage": "Growth",
+    "founded_year": 2023,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU019",
+    "company_name": "VidyutSystems Pvt Ltd",
+    "description": "VidyutSystems builds Satellite Imagery-powered solutions for the mobilitytech sector, focused on fraud detection, scheme beneficiary verification. Headquartered in Chandigarh, the team has deployed solutions across 2 Indian states.",
+    "sectors": [
+      "MobilityTech",
+      "GovTech"
+    ],
+    "technologies": [
+      "Computer Vision",
+      "Blockchain",
+      "Satellite Imagery",
+      "NLP"
+    ],
+    "capabilities": [
+      "fraud detection",
+      "scheme beneficiary verification",
+      "EV fleet management",
+      "traffic prediction",
+      "smart parking"
+    ],
+    "products": [
+      "VidyutSystems Platform"
+    ],
+    "trl_level": 3,
+    "headquarters": "Chandigarh, Punjab",
+    "operating_regions": [
+      "Haryana",
+      "Punjab",
+      "Maharashtra",
+      "Odisha",
+      "Rajasthan",
+      "Telangana"
+    ],
+    "team_size": 90,
+    "previous_pilots": 1,
+    "government_experience": true,
+    "certifications": [],
+    "deployment_capacity": "Pan-India",
+    "funding_stage": "Seed",
+    "founded_year": 2022,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU020",
+    "company_name": "HimSolutions Pvt Ltd",
+    "description": "HimSolutions builds Robotics-powered solutions for the edtech sector, focused on learning outcome analytics, adaptive learning. Headquartered in Bengaluru, the team has deployed solutions across 6 Indian states.",
+    "sectors": [
+      "EdTech",
+      "CleanTech"
+    ],
+    "technologies": [
+      "Edge Computing",
+      "Drone Imaging",
+      "Robotics"
+    ],
+    "capabilities": [
+      "learning outcome analytics",
+      "adaptive learning",
+      "waste-to-energy"
+    ],
+    "products": [
+      "HimSolutions Suite"
+    ],
+    "trl_level": 3,
+    "headquarters": "Bengaluru, Karnataka",
+    "operating_regions": [
+      "Telangana",
+      "Kerala",
+      "Tamil Nadu"
+    ],
+    "team_size": 12,
+    "previous_pilots": 1,
+    "government_experience": true,
+    "certifications": [
+      "CERT-In Empanelled",
+      "DPIIT Recognized",
+      "MeitY Startup Hub Recognized"
+    ],
+    "deployment_capacity": "Regional (state-level)",
+    "funding_stage": "Series A",
+    "founded_year": 2022,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU021",
+    "company_name": "SahyogDynamics Pvt Ltd",
+    "description": "SahyogDynamics builds Satellite Imagery-powered solutions for the govtech sector, focused on scheme beneficiary verification, e-governance workflows. Headquartered in Indore, the team has deployed solutions across 11 Indian states.",
+    "sectors": [
+      "GovTech",
+      "AgriTech"
+    ],
+    "technologies": [
+      "GIS Mapping",
+      "IoT Sensors",
+      "Satellite Imagery"
+    ],
+    "capabilities": [
+      "scheme beneficiary verification",
+      "e-governance workflows",
+      "citizen grievance analytics",
+      "fraud detection",
+      "crop health monitoring"
+    ],
+    "products": [
+      "SahyogDynamics Analytics Stack"
+    ],
+    "trl_level": 3,
+    "headquarters": "Indore, Madhya Pradesh",
+    "operating_regions": [
+      "Karnataka",
+      "Tamil Nadu",
+      "Haryana",
+      "Punjab"
+    ],
+    "team_size": 45,
+    "previous_pilots": 3,
+    "government_experience": true,
+    "certifications": [
+      "SOC 2 Type II",
+      "ISO 27001"
+    ],
+    "deployment_capacity": "Pan-India",
+    "funding_stage": "Pre-Seed",
+    "founded_year": 2019,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU022",
+    "company_name": "PoshanAI Pvt Ltd",
+    "description": "PoshanAI builds LoRaWAN Networks-powered solutions for the watertech sector, focused on water quality testing, groundwater monitoring. Headquartered in Kochi, the team has deployed solutions across 13 Indian states.",
+    "sectors": [
+      "WaterTech",
+      "HealthTech"
+    ],
+    "technologies": [
+      "Edge Computing",
+      "Predictive Analytics",
+      "LoRaWAN Networks",
+      "NLP"
+    ],
+    "capabilities": [
+      "water quality testing",
+      "groundwater monitoring",
+      "maternal health tracking",
+      "sewage treatment optimization"
+    ],
+    "products": [
+      "PoshanAI Cloud"
+    ],
+    "trl_level": 6,
+    "headquarters": "Kochi, Kerala",
+    "operating_regions": [
+      "Kerala",
+      "Uttar Pradesh",
+      "Rajasthan",
+      "Tamil Nadu"
+    ],
+    "team_size": 8,
+    "previous_pilots": 3,
+    "government_experience": true,
+    "certifications": [],
+    "deployment_capacity": "Pan-India",
+    "funding_stage": "Bootstrapped",
+    "founded_year": 2021,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU023",
+    "company_name": "KavachInnovations Pvt Ltd",
+    "description": "KavachInnovations builds Satellite Imagery-powered solutions for the agritech sector, focused on pest detection, crop health monitoring. Headquartered in Chennai, the team has deployed solutions across 7 Indian states.",
+    "sectors": [
+      "AgriTech",
+      "CleanTech"
+    ],
+    "technologies": [
+      "Drone Imaging",
+      "Mobile Apps",
+      "NLP",
+      "Satellite Imagery",
+      "Edge Computing"
+    ],
+    "capabilities": [
+      "pest detection",
+      "crop health monitoring",
+      "soil analysis",
+      "farm-to-market logistics"
+    ],
+    "products": [
+      "KavachInnovations Hub"
+    ],
+    "trl_level": 6,
+    "headquarters": "Chennai, Tamil Nadu",
+    "operating_regions": [
+      "Maharashtra",
+      "Maharashtra"
+    ],
+    "team_size": 60,
+    "previous_pilots": 0,
+    "government_experience": false,
+    "certifications": [
+      "DPIIT Recognized",
+      "GeM Registered"
+    ],
+    "deployment_capacity": "Regional (state-level)",
+    "funding_stage": "Seed",
+    "founded_year": 2021,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU024",
+    "company_name": "ShaktiTech Pvt Ltd",
+    "description": "ShaktiTech builds AI/ML-powered solutions for the fintech for msme sector, focused on export documentation, disease surveillance. Headquartered in Noida, the team has deployed solutions across 14 Indian states.",
+    "sectors": [
+      "FinTech for MSME",
+      "HealthTech"
+    ],
+    "technologies": [
+      "Robotics",
+      "GIS Mapping",
+      "Mobile Apps",
+      "Cloud Analytics",
+      "AI/ML"
+    ],
+    "capabilities": [
+      "export documentation",
+      "disease surveillance",
+      "credit scoring"
+    ],
+    "products": [
+      "ShaktiTech Analytics Stack"
+    ],
+    "trl_level": 4,
+    "headquarters": "Noida, Uttar Pradesh",
+    "operating_regions": [
+      "Tamil Nadu",
+      "Karnataka",
+      "Tamil Nadu",
+      "Haryana",
+      "Kerala"
+    ],
+    "team_size": 90,
+    "previous_pilots": 2,
+    "government_experience": true,
+    "certifications": [
+      "MeitY Startup Hub Recognized"
+    ],
+    "deployment_capacity": "Regional (state-level)",
+    "funding_stage": "Growth",
+    "founded_year": 2022,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU025",
+    "company_name": "DishaTech Pvt Ltd",
+    "description": "DishaTech builds Drone Imaging-powered solutions for the smart infrastructure sector, focused on asset monitoring, accident detection. Headquartered in Chandigarh, the team has deployed solutions across 6 Indian states.",
+    "sectors": [
+      "Smart Infrastructure",
+      "MobilityTech"
+    ],
+    "technologies": [
+      "Mobile Apps",
+      "IoT Sensors",
+      "Drone Imaging"
+    ],
+    "capabilities": [
+      "asset monitoring",
+      "accident detection",
+      "waste collection optimization",
+      "smart parking",
+      "smart metering"
+    ],
+    "products": [
+      "DishaTech OS"
+    ],
+    "trl_level": 9,
+    "headquarters": "Chandigarh, Punjab",
+    "operating_regions": [
+      "Maharashtra",
+      "Rajasthan",
+      "Uttar Pradesh",
+      "Tamil Nadu",
+      "Tamil Nadu"
+    ],
+    "team_size": 12,
+    "previous_pilots": 3,
+    "government_experience": true,
+    "certifications": [
+      "DPIIT Recognized"
+    ],
+    "deployment_capacity": "Pilot only (1-2 sites)",
+    "funding_stage": "Series B",
+    "founded_year": 2023,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU026",
+    "company_name": "AnveshanLabs Pvt Ltd",
+    "description": "AnveshanLabs builds AR/VR-powered solutions for the govtech sector, focused on credit scoring, e-governance workflows. Headquartered in Noida, the team has deployed solutions across 7 Indian states.",
+    "sectors": [
+      "GovTech",
+      "FinTech for MSME"
+    ],
+    "technologies": [
+      "GIS Mapping",
+      "Mobile Apps",
+      "Blockchain",
+      "AR/VR"
+    ],
+    "capabilities": [
+      "credit scoring",
+      "e-governance workflows",
+      "fraud detection",
+      "citizen grievance analytics"
+    ],
+    "products": [
+      "AnveshanLabs Dashboard"
+    ],
+    "trl_level": 7,
+    "headquarters": "Noida, Uttar Pradesh",
+    "operating_regions": [
+      "Madhya Pradesh",
+      "Gujarat",
+      "Tamil Nadu"
+    ],
+    "team_size": 90,
+    "previous_pilots": 3,
+    "government_experience": true,
+    "certifications": [
+      "ISO 27001",
+      "STQC Certified",
+      "GeM Registered"
+    ],
+    "deployment_capacity": "Regional (state-level)",
+    "funding_stage": "Growth",
+    "founded_year": 2021,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU027",
+    "company_name": "TarangSystems Pvt Ltd",
+    "description": "TarangSystems builds Satellite Imagery-powered solutions for the fintech for msme sector, focused on export documentation, credit scoring. Headquartered in Pune, the team has deployed solutions across 7 Indian states.",
+    "sectors": [
+      "FinTech for MSME",
+      "AgriTech"
+    ],
+    "technologies": [
+      "Predictive Analytics",
+      "Satellite Imagery",
+      "Cloud Analytics"
+    ],
+    "capabilities": [
+      "export documentation",
+      "credit scoring",
+      "yield prediction"
+    ],
+    "products": [
+      "TarangSystems Cloud"
+    ],
+    "trl_level": 9,
+    "headquarters": "Pune, Maharashtra",
+    "operating_regions": [
+      "Maharashtra",
+      "Uttar Pradesh"
+    ],
+    "team_size": 12,
+    "previous_pilots": 0,
+    "government_experience": false,
+    "certifications": [
+      "GeM Registered",
+      "SOC 2 Type II",
+      "DPIIT Recognized"
+    ],
+    "deployment_capacity": "Regional (state-level)",
+    "funding_stage": "Series B",
+    "founded_year": 2015,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU028",
+    "company_name": "AarogyaLabs Pvt Ltd",
+    "description": "AarogyaLabs builds Predictive Analytics-powered solutions for the mobilitytech sector, focused on attendance tracking, traffic prediction. Headquartered in Chennai, the team has deployed solutions across 6 Indian states.",
+    "sectors": [
+      "MobilityTech",
+      "EdTech"
+    ],
+    "technologies": [
+      "Predictive Analytics",
+      "NLP",
+      "AI/ML"
+    ],
+    "capabilities": [
+      "attendance tracking",
+      "traffic prediction",
+      "smart parking"
+    ],
+    "products": [
+      "AarogyaLabs Hub"
+    ],
+    "trl_level": 3,
+    "headquarters": "Chennai, Tamil Nadu",
+    "operating_regions": [
+      "Gujarat",
+      "Maharashtra",
+      "Tamil Nadu",
+      "Kerala"
+    ],
+    "team_size": 30,
+    "previous_pilots": 6,
+    "government_experience": true,
+    "certifications": [
+      "STQC Certified",
+      "ISO 9001",
+      "DPIIT Recognized"
+    ],
+    "deployment_capacity": "Pilot only (1-2 sites)",
+    "funding_stage": "Series B",
+    "founded_year": 2021,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU029",
+    "company_name": "AarogyaAI Pvt Ltd",
+    "description": "AarogyaAI builds Satellite Imagery-powered solutions for the fintech for msme sector, focused on export documentation, invoice financing. Headquartered in Chennai, the team has deployed solutions across 12 Indian states.",
+    "sectors": [
+      "FinTech for MSME",
+      "CleanTech"
+    ],
+    "technologies": [
+      "Drone Imaging",
+      "GIS Mapping",
+      "Satellite Imagery",
+      "IoT Sensors"
+    ],
+    "capabilities": [
+      "export documentation",
+      "invoice financing",
+      "credit scoring",
+      "GST automation"
+    ],
+    "products": [
+      "AarogyaAI Cloud"
+    ],
+    "trl_level": 6,
+    "headquarters": "Chennai, Tamil Nadu",
+    "operating_regions": [
+      "Rajasthan",
+      "Maharashtra",
+      "Haryana",
+      "Tamil Nadu"
+    ],
+    "team_size": 30,
+    "previous_pilots": 4,
+    "government_experience": true,
+    "certifications": [
+      "SOC 2 Type II",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "deployment_capacity": "Regional (state-level)",
+    "funding_stage": "Series B",
+    "founded_year": 2020,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU030",
+    "company_name": "DeepInnovations Pvt Ltd",
+    "description": "DeepInnovations builds LoRaWAN Networks-powered solutions for the govtech sector, focused on farm-to-market logistics, citizen grievance analytics. Headquartered in Nagpur, the team has deployed solutions across 11 Indian states.",
+    "sectors": [
+      "GovTech",
+      "AgriTech"
+    ],
+    "technologies": [
+      "AR/VR",
+      "LoRaWAN Networks",
+      "Computer Vision",
+      "Edge Computing"
+    ],
+    "capabilities": [
+      "farm-to-market logistics",
+      "citizen grievance analytics",
+      "fraud detection"
+    ],
+    "products": [
+      "DeepInnovations OS"
+    ],
+    "trl_level": 9,
+    "headquarters": "Nagpur, Maharashtra",
+    "operating_regions": [
+      "Odisha",
+      "Telangana",
+      "Uttar Pradesh"
+    ],
+    "team_size": 30,
+    "previous_pilots": 1,
+    "government_experience": true,
+    "certifications": [],
+    "deployment_capacity": "Regional (state-level)",
+    "funding_stage": "Series A",
+    "founded_year": 2015,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU031",
+    "company_name": "RoshniNetworks Pvt Ltd",
+    "description": "RoshniNetworks builds Satellite Imagery-powered solutions for the cleantech sector, focused on solar grid optimization, emissions tracking. Headquartered in Lucknow, the team has deployed solutions across 14 Indian states.",
+    "sectors": [
+      "CleanTech",
+      "HealthTech"
+    ],
+    "technologies": [
+      "GIS Mapping",
+      "NLP",
+      "Satellite Imagery",
+      "Robotics",
+      "Mobile Apps"
+    ],
+    "capabilities": [
+      "solar grid optimization",
+      "emissions tracking",
+      "disease surveillance",
+      "renewable energy monitoring",
+      "supply chain for medicines"
+    ],
+    "products": [
+      "RoshniNetworks Suite"
+    ],
+    "trl_level": 9,
+    "headquarters": "Lucknow, Uttar Pradesh",
+    "operating_regions": [
+      "Telangana",
+      "Maharashtra",
+      "Tamil Nadu",
+      "Tamil Nadu",
+      "Odisha"
+    ],
+    "team_size": 20,
+    "previous_pilots": 5,
+    "government_experience": true,
+    "certifications": [
+      "GeM Registered",
+      "ISO 27001",
+      "CERT-In Empanelled"
+    ],
+    "deployment_capacity": "Pilot only (1-2 sites)",
+    "funding_stage": "Seed",
+    "founded_year": 2023,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU032",
+    "company_name": "DishaSolutions Pvt Ltd",
+    "description": "DishaSolutions builds Edge Computing-powered solutions for the edtech sector, focused on learning outcome analytics, attendance tracking. Headquartered in Indore, the team has deployed solutions across 13 Indian states.",
+    "sectors": [
+      "EdTech",
+      "GovTech"
+    ],
+    "technologies": [
+      "LoRaWAN Networks",
+      "GIS Mapping",
+      "Blockchain",
+      "Edge Computing",
+      "Computer Vision"
+    ],
+    "capabilities": [
+      "learning outcome analytics",
+      "attendance tracking",
+      "adaptive learning",
+      "e-governance workflows"
+    ],
+    "products": [
+      "DishaSolutions OS"
+    ],
+    "trl_level": 8,
+    "headquarters": "Indore, Madhya Pradesh",
+    "operating_regions": [
+      "Telangana",
+      "Maharashtra",
+      "Karnataka",
+      "Tamil Nadu",
+      "Haryana"
+    ],
+    "team_size": 8,
+    "previous_pilots": 5,
+    "government_experience": true,
+    "certifications": [
+      "ISO 9001",
+      "ISO 27001",
+      "SOC 2 Type II"
+    ],
+    "deployment_capacity": "Pan-India",
+    "funding_stage": "Pre-Seed",
+    "founded_year": 2021,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU033",
+    "company_name": "FasalDynamics Pvt Ltd",
+    "description": "FasalDynamics builds Blockchain-powered solutions for the smart infrastructure sector, focused on waste collection optimization, solar grid optimization. Headquartered in Lucknow, the team has deployed solutions across 3 Indian states.",
+    "sectors": [
+      "Smart Infrastructure",
+      "CleanTech"
+    ],
+    "technologies": [
+      "AI/ML",
+      "Predictive Analytics",
+      "Blockchain",
+      "Computer Vision"
+    ],
+    "capabilities": [
+      "waste collection optimization",
+      "solar grid optimization",
+      "waste-to-energy"
+    ],
+    "products": [
+      "FasalDynamics Hub"
+    ],
+    "trl_level": 6,
+    "headquarters": "Lucknow, Uttar Pradesh",
+    "operating_regions": [
+      "Uttar Pradesh",
+      "Odisha",
+      "Uttar Pradesh",
+      "Karnataka",
+      "Gujarat",
+      "Haryana"
+    ],
+    "team_size": 60,
+    "previous_pilots": 1,
+    "government_experience": true,
+    "certifications": [
+      "ISO 9001"
+    ],
+    "deployment_capacity": "Regional (state-level)",
+    "funding_stage": "Bootstrapped",
+    "founded_year": 2018,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU034",
+    "company_name": "AnaajTech Pvt Ltd",
+    "description": "AnaajTech builds Robotics-powered solutions for the agritech sector, focused on crop health monitoring, pest detection. Headquartered in Chennai, the team has deployed solutions across 4 Indian states.",
+    "sectors": [
+      "AgriTech",
+      "WaterTech"
+    ],
+    "technologies": [
+      "Computer Vision",
+      "Robotics",
+      "LoRaWAN Networks",
+      "Blockchain",
+      "Satellite Imagery"
+    ],
+    "capabilities": [
+      "crop health monitoring",
+      "pest detection",
+      "soil analysis"
+    ],
+    "products": [
+      "AnaajTech OS"
+    ],
+    "trl_level": 9,
+    "headquarters": "Chennai, Tamil Nadu",
+    "operating_regions": [
+      "Telangana",
+      "Odisha",
+      "Karnataka"
+    ],
+    "team_size": 120,
+    "previous_pilots": 0,
+    "government_experience": true,
+    "certifications": [
+      "ISO 27001"
+    ],
+    "deployment_capacity": "Regional (state-level)",
+    "funding_stage": "Pre-Seed",
+    "founded_year": 2020,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU035",
+    "company_name": "GrameenSystems Pvt Ltd",
+    "description": "GrameenSystems builds AI/ML-powered solutions for the govtech sector, focused on citizen grievance analytics, fraud detection. Headquartered in Pune, the team has deployed solutions across 12 Indian states.",
+    "sectors": [
+      "GovTech",
+      "AgriTech"
+    ],
+    "technologies": [
+      "GIS Mapping",
+      "Computer Vision",
+      "Edge Computing",
+      "AI/ML"
+    ],
+    "capabilities": [
+      "citizen grievance analytics",
+      "fraud detection",
+      "farm-to-market logistics",
+      "scheme beneficiary verification",
+      "crop health monitoring"
+    ],
+    "products": [
+      "GrameenSystems Platform"
+    ],
+    "trl_level": 8,
+    "headquarters": "Pune, Maharashtra",
+    "operating_regions": [
+      "Rajasthan",
+      "Maharashtra"
+    ],
+    "team_size": 90,
+    "previous_pilots": 2,
+    "government_experience": true,
+    "certifications": [
+      "DPIIT Recognized",
+      "GeM Registered",
+      "ISO 27001"
+    ],
+    "deployment_capacity": "Regional (state-level)",
+    "funding_stage": "Growth",
+    "founded_year": 2022,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU036",
+    "company_name": "PrakritiLabs Pvt Ltd",
+    "description": "PrakritiLabs builds Edge Computing-powered solutions for the edtech sector, focused on solar grid optimization, emissions tracking. Headquartered in Hyderabad, the team has deployed solutions across 8 Indian states.",
+    "sectors": [
+      "EdTech",
+      "CleanTech"
+    ],
+    "technologies": [
+      "GIS Mapping",
+      "Edge Computing",
+      "Cloud Analytics",
+      "IoT Sensors"
+    ],
+    "capabilities": [
+      "solar grid optimization",
+      "emissions tracking",
+      "vernacular content delivery",
+      "attendance tracking",
+      "adaptive learning"
+    ],
+    "products": [
+      "PrakritiLabs Analytics Stack"
+    ],
+    "trl_level": 9,
+    "headquarters": "Hyderabad, Telangana",
+    "operating_regions": [
+      "Gujarat",
+      "Uttar Pradesh",
+      "Rajasthan"
+    ],
+    "team_size": 8,
+    "previous_pilots": 6,
+    "government_experience": true,
+    "certifications": [
+      "DPIIT Recognized",
+      "GeM Registered",
+      "ISO 27001"
+    ],
+    "deployment_capacity": "Regional (state-level)",
+    "funding_stage": "Series A",
+    "founded_year": 2020,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU037",
+    "company_name": "FasalInnovations Pvt Ltd",
+    "description": "FasalInnovations builds Predictive Analytics-powered solutions for the edtech sector, focused on learning outcome analytics, renewable energy monitoring. Headquartered in Bhubaneswar, the team has deployed solutions across 11 Indian states.",
+    "sectors": [
+      "EdTech",
+      "CleanTech"
+    ],
+    "technologies": [
+      "Predictive Analytics",
+      "LoRaWAN Networks",
+      "Blockchain"
+    ],
+    "capabilities": [
+      "learning outcome analytics",
+      "renewable energy monitoring",
+      "adaptive learning"
+    ],
+    "products": [
+      "FasalInnovations Hub"
+    ],
+    "trl_level": 9,
+    "headquarters": "Bhubaneswar, Odisha",
+    "operating_regions": [
+      "Gujarat",
+      "Uttar Pradesh"
+    ],
+    "team_size": 12,
+    "previous_pilots": 4,
+    "government_experience": true,
+    "certifications": [
+      "ISO 27001",
+      "STQC Certified",
+      "MeitY Startup Hub Recognized"
+    ],
+    "deployment_capacity": "Regional (state-level)",
+    "funding_stage": "Seed",
+    "founded_year": 2016,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU038",
+    "company_name": "DeepAI Pvt Ltd",
+    "description": "DeepAI builds AR/VR-powered solutions for the cleantech sector, focused on waste-to-energy, renewable energy monitoring. Headquartered in Chennai, the team has deployed solutions across 2 Indian states.",
+    "sectors": [
+      "CleanTech",
+      "Climate & Environment"
+    ],
+    "technologies": [
+      "Robotics",
+      "GIS Mapping",
+      "AR/VR",
+      "Edge Computing"
+    ],
+    "capabilities": [
+      "waste-to-energy",
+      "renewable energy monitoring",
+      "deforestation detection",
+      "solar grid optimization",
+      "air quality monitoring"
+    ],
+    "products": [
+      "DeepAI Engine"
+    ],
+    "trl_level": 7,
+    "headquarters": "Chennai, Tamil Nadu",
+    "operating_regions": [
+      "Punjab",
+      "Tamil Nadu",
+      "Haryana",
+      "Uttar Pradesh"
+    ],
+    "team_size": 90,
+    "previous_pilots": 0,
+    "government_experience": false,
+    "certifications": [
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "deployment_capacity": "Pilot only (1-2 sites)",
+    "funding_stage": "Series B",
+    "founded_year": 2021,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU039",
+    "company_name": "PrakritiSystems Pvt Ltd",
+    "description": "PrakritiSystems builds Predictive Analytics-powered solutions for the agritech sector, focused on farm-to-market logistics, yield prediction. Headquartered in Chandigarh, the team has deployed solutions across 12 Indian states.",
+    "sectors": [
+      "AgriTech",
+      "CleanTech"
+    ],
+    "technologies": [
+      "Predictive Analytics",
+      "Blockchain",
+      "AR/VR",
+      "Edge Computing"
+    ],
+    "capabilities": [
+      "farm-to-market logistics",
+      "yield prediction",
+      "soil analysis",
+      "emissions tracking"
+    ],
+    "products": [
+      "PrakritiSystems Suite"
+    ],
+    "trl_level": 7,
+    "headquarters": "Chandigarh, Punjab",
+    "operating_regions": [
+      "Rajasthan",
+      "Odisha",
+      "Gujarat",
+      "Uttar Pradesh"
+    ],
+    "team_size": 8,
+    "previous_pilots": 0,
+    "government_experience": true,
+    "certifications": [
+      "DPIIT Recognized",
+      "STQC Certified",
+      "ISO 9001"
+    ],
+    "deployment_capacity": "Pan-India",
+    "funding_stage": "Bootstrapped",
+    "founded_year": 2020,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU040",
+    "company_name": "PrithviLabs Pvt Ltd",
+    "description": "PrithviLabs builds NLP-powered solutions for the govtech sector, focused on fraud detection, carbon accounting. Headquartered in Kochi, the team has deployed solutions across 6 Indian states.",
+    "sectors": [
+      "GovTech",
+      "Climate & Environment"
+    ],
+    "technologies": [
+      "Computer Vision",
+      "NLP",
+      "LoRaWAN Networks"
+    ],
+    "capabilities": [
+      "fraud detection",
+      "carbon accounting",
+      "citizen grievance analytics"
+    ],
+    "products": [
+      "PrithviLabs Hub"
+    ],
+    "trl_level": 9,
+    "headquarters": "Kochi, Kerala",
+    "operating_regions": [
+      "Karnataka",
+      "Rajasthan"
+    ],
+    "team_size": 12,
+    "previous_pilots": 6,
+    "government_experience": true,
+    "certifications": [
+      "STQC Certified",
+      "ISO 9001",
+      "CERT-In Empanelled"
+    ],
+    "deployment_capacity": "Pan-India",
+    "funding_stage": "Growth",
+    "founded_year": 2018,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU041",
+    "company_name": "SurakshaNetworks Pvt Ltd",
+    "description": "SurakshaNetworks builds LoRaWAN Networks-powered solutions for the healthtech sector, focused on telemedicine, remote diagnostics. Headquartered in Nagpur, the team has deployed solutions across 4 Indian states.",
+    "sectors": [
+      "HealthTech",
+      "FinTech for MSME"
+    ],
+    "technologies": [
+      "Cloud Analytics",
+      "Edge Computing",
+      "LoRaWAN Networks",
+      "Predictive Analytics",
+      "Drone Imaging"
+    ],
+    "capabilities": [
+      "telemedicine",
+      "remote diagnostics",
+      "disease surveillance"
+    ],
+    "products": [
+      "SurakshaNetworks Analytics Stack"
+    ],
+    "trl_level": 6,
+    "headquarters": "Nagpur, Maharashtra",
+    "operating_regions": [
+      "Telangana",
+      "Gujarat",
+      "Uttar Pradesh",
+      "Tamil Nadu"
+    ],
+    "team_size": 20,
+    "previous_pilots": 0,
+    "government_experience": false,
+    "certifications": [
+      "DPIIT Recognized",
+      "MeitY Startup Hub Recognized",
+      "ISO 27001"
+    ],
+    "deployment_capacity": "Regional (state-level)",
+    "funding_stage": "Seed",
+    "founded_year": 2020,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU042",
+    "company_name": "NetraNetworks Pvt Ltd",
+    "description": "NetraNetworks builds Satellite Imagery-powered solutions for the cleantech sector, focused on waste-to-energy, emissions tracking. Headquartered in Kochi, the team has deployed solutions across 3 Indian states.",
+    "sectors": [
+      "CleanTech",
+      "HealthTech"
+    ],
+    "technologies": [
+      "NLP",
+      "Computer Vision",
+      "Satellite Imagery"
+    ],
+    "capabilities": [
+      "waste-to-energy",
+      "emissions tracking",
+      "remote diagnostics",
+      "renewable energy monitoring"
+    ],
+    "products": [
+      "NetraNetworks Engine"
+    ],
+    "trl_level": 7,
+    "headquarters": "Kochi, Kerala",
+    "operating_regions": [
+      "Rajasthan",
+      "Tamil Nadu",
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Uttar Pradesh"
+    ],
+    "team_size": 12,
+    "previous_pilots": 6,
+    "government_experience": true,
+    "certifications": [
+      "GeM Registered",
+      "ISO 9001"
+    ],
+    "deployment_capacity": "Regional (state-level)",
+    "funding_stage": "Bootstrapped",
+    "founded_year": 2022,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU043",
+    "company_name": "AkashInnovations Pvt Ltd",
+    "description": "AkashInnovations builds Drone Imaging-powered solutions for the govtech sector, focused on fraud detection, crop health monitoring. Headquartered in Noida, the team has deployed solutions across 9 Indian states.",
+    "sectors": [
+      "GovTech",
+      "AgriTech"
+    ],
+    "technologies": [
+      "Robotics",
+      "NLP",
+      "IoT Sensors",
+      "Drone Imaging"
+    ],
+    "capabilities": [
+      "fraud detection",
+      "crop health monitoring",
+      "citizen grievance analytics",
+      "pest detection"
+    ],
+    "products": [
+      "AkashInnovations Platform"
+    ],
+    "trl_level": 9,
+    "headquarters": "Noida, Uttar Pradesh",
+    "operating_regions": [
+      "Uttar Pradesh",
+      "Tamil Nadu",
+      "Madhya Pradesh",
+      "Odisha",
+      "Tamil Nadu"
+    ],
+    "team_size": 8,
+    "previous_pilots": 4,
+    "government_experience": true,
+    "certifications": [
+      "SOC 2 Type II",
+      "MeitY Startup Hub Recognized"
+    ],
+    "deployment_capacity": "Pilot only (1-2 sites)",
+    "funding_stage": "Bootstrapped",
+    "founded_year": 2022,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU044",
+    "company_name": "SetuNetworks Pvt Ltd",
+    "description": "SetuNetworks builds Satellite Imagery-powered solutions for the healthtech sector, focused on predictive maintenance, telemedicine. Headquartered in Bhubaneswar, the team has deployed solutions across 12 Indian states.",
+    "sectors": [
+      "HealthTech",
+      "Smart Infrastructure"
+    ],
+    "technologies": [
+      "GIS Mapping",
+      "Edge Computing",
+      "Satellite Imagery",
+      "Blockchain",
+      "Predictive Analytics"
+    ],
+    "capabilities": [
+      "predictive maintenance",
+      "telemedicine",
+      "asset monitoring"
+    ],
+    "products": [
+      "SetuNetworks Platform"
+    ],
+    "trl_level": 5,
+    "headquarters": "Bhubaneswar, Odisha",
+    "operating_regions": [
+      "Telangana",
+      "Uttar Pradesh",
+      "Uttar Pradesh",
+      "Kerala"
+    ],
+    "team_size": 45,
+    "previous_pilots": 3,
+    "government_experience": true,
+    "certifications": [
+      "MeitY Startup Hub Recognized",
+      "STQC Certified",
+      "GeM Registered"
+    ],
+    "deployment_capacity": "Pan-India",
+    "funding_stage": "Series B",
+    "founded_year": 2017,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU045",
+    "company_name": "MitraLabs Pvt Ltd",
+    "description": "MitraLabs builds GIS Mapping-powered solutions for the smart infrastructure sector, focused on emissions tracking, waste collection optimization. Headquartered in Lucknow, the team has deployed solutions across 12 Indian states.",
+    "sectors": [
+      "Smart Infrastructure",
+      "CleanTech"
+    ],
+    "technologies": [
+      "GIS Mapping",
+      "Cloud Analytics",
+      "Drone Imaging",
+      "Blockchain"
+    ],
+    "capabilities": [
+      "emissions tracking",
+      "waste collection optimization",
+      "predictive maintenance",
+      "smart metering",
+      "asset monitoring"
+    ],
+    "products": [
+      "MitraLabs Cloud"
+    ],
+    "trl_level": 9,
+    "headquarters": "Lucknow, Uttar Pradesh",
+    "operating_regions": [
+      "Uttar Pradesh",
+      "Karnataka",
+      "Uttar Pradesh",
+      "Haryana",
+      "Maharashtra",
+      "Tamil Nadu"
+    ],
+    "team_size": 12,
+    "previous_pilots": 5,
+    "government_experience": true,
+    "certifications": [
+      "SOC 2 Type II",
+      "ISO 9001"
+    ],
+    "deployment_capacity": "Pilot only (1-2 sites)",
+    "funding_stage": "Pre-Seed",
+    "founded_year": 2017,
+    "synthetic": true
+  },
+  {
+    "startup_id": "STU046",
+    "company_name": "PrakritiInnovations Pvt Ltd",
+    "description": "PrakritiInnovations builds Satellite Imagery-powered solutions for the healthtech sector, focused on smart metering, supply chain for medicines. Headquartered in Coimbatore, the team has deployed solutions across 13 Indian states.",
+    "sectors": [
+      "HealthTech",
+      "Smart Infrastructure"
+    ],
+    "technologies": [
+      "Satellite Imagery",
+      "LoRaWAN Networks",
+      "Predictive Analytics"
+    ],
+    "capabilities": [
+      "smart metering",
+      "supply chain for medicines",
+      "maternal health tracking",
+      "telemedicine"
+    ],
+    "products": [
+      "PrakritiInnovations Analytics Stack"
+    ],
+    "trl_level": 9,
+    "headquarters": "Coimbatore, Tamil Nadu",
+    "operating_regions": [
+      "Gujarat",
+      "Uttar Pradesh"
+    ],
+    "team_size": 120,
+    "previous_pilots": 6,
+    "government_experience": true,
+    "certifications": [
+      "SOC 2 Type II"
+    ],
+    "deployment_capacity": "Pan-India",
+    "funding_stage": "Seed",
+    "founded_year": 2022,
+    "synthetic": true
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "challenge_id": "CHAL001",
+    "problem_id": "PROB008",
+    "department_id": "DEPT004",
+    "title": "Create a predictive analytics solution using satellite and sensor data for difficulty predicting highway pothole risks before they escalate",
+    "description": "Create a predictive analytics solution using satellite and sensor data that addresses: The Ministry of Road Transport & Highways faces Difficulty predicting highway pothole risks before they escalate. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment. The solution should be deployable within 6 months, cost-efficient, and interoperable with existing government IT systems.",
+    "sector": "Road Transport & Highways",
+    "required_technologies": [
+      "Computer Vision",
+      "Mobile App",
+      "IoT"
+    ],
+    "budget_range_inr": "\u20b910L - \u20b950L",
+    "timeline_months": 9,
+    "status": "PUBLISHED",
+    "ai_generated": true,
+    "created_at": "2025-07-18T00:00:00",
+    "synthetic": true
+  },
+  {
+    "challenge_id": "CHAL002",
+    "problem_id": "PROB006",
+    "department_id": "DEPT003",
+    "title": "Design a blockchain or ledger-based transparent tracking system for high manual effort and delays in soil health verification processes",
+    "description": "Design a blockchain or ledger-based transparent tracking system that addresses: The Ministry of Agriculture & Farmers Welfare faces High manual effort and delays in soil health verification processes. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment. The solution should be deployable within 6 months, cost-efficient, and interoperable with existing government IT systems.",
+    "sector": "Agriculture & Farmers Welfare",
+    "required_technologies": [
+      "Computer Vision",
+      "NLP",
+      "Satellite Imagery"
+    ],
+    "budget_range_inr": "\u20b950L - \u20b91Cr",
+    "timeline_months": 6,
+    "status": "PUBLISHED",
+    "ai_generated": true,
+    "created_at": "2025-08-10T00:00:00",
+    "synthetic": true
+  },
+  {
+    "challenge_id": "CHAL003",
+    "problem_id": "PROB015",
+    "department_id": "DEPT008",
+    "title": "Build a citizen-facing app with offline-first data sync for difficulty predicting municipal waste collection risks before they escalate",
+    "description": "Build a citizen-facing app with offline-first data sync that addresses: The Ministry of Urban Development faces Difficulty predicting municipal waste collection risks before they escalate. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment. The solution should be deployable within 6 months, cost-efficient, and interoperable with existing government IT systems.",
+    "sector": "Urban Development",
+    "required_technologies": [
+      "GIS Mapping",
+      "Mobile App",
+      "Computer Vision"
+    ],
+    "budget_range_inr": "\u20b91Cr - \u20b95Cr",
+    "timeline_months": 12,
+    "status": "PUBLISHED",
+    "ai_generated": true,
+    "created_at": "2025-03-29T00:00:00",
+    "synthetic": true
+  },
+  {
+    "challenge_id": "CHAL004",
+    "problem_id": "PROB013",
+    "department_id": "DEPT007",
+    "title": "Develop a mobile-first data collection and verification platform for difficulty predicting student learning outcome risks before they escalate",
+    "description": "Develop a mobile-first data collection and verification platform that addresses: The Ministry of Education faces Difficulty predicting student learning outcome risks before they escalate. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment. The solution should be deployable within 6 months, cost-efficient, and interoperable with existing government IT systems.",
+    "sector": "Education",
+    "required_technologies": [
+      "GIS Mapping",
+      "NLP",
+      "IoT"
+    ],
+    "budget_range_inr": "\u20b910L - \u20b950L",
+    "timeline_months": 3,
+    "status": "PUBLISHED",
+    "ai_generated": true,
+    "created_at": "2025-07-11T00:00:00",
+    "synthetic": true
+  },
+  {
+    "challenge_id": "CHAL005",
+    "problem_id": "PROB009",
+    "department_id": "DEPT005",
+    "title": "Develop a mobile-first data collection and verification platform for lack of real-time visibility into electricity distribution loss across rural blocks",
+    "description": "Develop a mobile-first data collection and verification platform that addresses: The Ministry of Power faces Lack of real-time visibility into electricity distribution loss across rural blocks. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment. The solution should be deployable within 6 months, cost-efficient, and interoperable with existing government IT systems.",
+    "sector": "Power",
+    "required_technologies": [
+      "Computer Vision",
+      "IoT",
+      "Edge Computing"
+    ],
+    "budget_range_inr": "\u20b950L - \u20b91Cr",
+    "timeline_months": 12,
+    "status": "PUBLISHED",
+    "ai_generated": true,
+    "created_at": "2025-06-22T00:00:00",
+    "synthetic": true
+  },
+  {
+    "challenge_id": "CHAL006",
+    "problem_id": "PROB018",
+    "department_id": "DEPT009",
+    "title": "Build an AI/IoT-based early warning and monitoring system for difficulty predicting water quality contamination risks before they escalate",
+    "description": "Build an AI/IoT-based early warning and monitoring system that addresses: The Ministry of Jal Shakti faces Difficulty predicting water quality contamination risks before they escalate. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment. The solution should be deployable within 6 months, cost-efficient, and interoperable with existing government IT systems.",
+    "sector": "Jal Shakti",
+    "required_technologies": [
+      "IoT",
+      "GIS Mapping",
+      "Mobile App"
+    ],
+    "budget_range_inr": "\u20b91Cr - \u20b95Cr",
+    "timeline_months": 9,
+    "status": "DRAFT",
+    "ai_generated": true,
+    "created_at": "2025-04-17T00:00:00",
+    "synthetic": true
+  },
+  {
+    "challenge_id": "CHAL007",
+    "problem_id": "PROB011",
+    "department_id": "DEPT006",
+    "title": "Design a blockchain or ledger-based transparent tracking system for fragmented systems causing duplication in air quality record-keeping",
+    "description": "Design a blockchain or ledger-based transparent tracking system that addresses: The Ministry of Environment, Forest & Climate Change faces Fragmented systems causing duplication in air quality record-keeping. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment. The solution should be deployable within 6 months, cost-efficient, and interoperable with existing government IT systems.",
+    "sector": "Environment, Forest & Climate Change",
+    "required_technologies": [
+      "Satellite Imagery",
+      "NLP",
+      "AI/ML"
+    ],
+    "budget_range_inr": "\u20b91Cr - \u20b95Cr",
+    "timeline_months": 9,
+    "status": "PUBLISHED",
+    "ai_generated": true,
+    "created_at": "2025-06-10T00:00:00",
+    "synthetic": true
+  },
+  {
+    "challenge_id": "CHAL008",
+    "problem_id": "PROB012",
+    "department_id": "DEPT006",
+    "title": "Build an AI/IoT-based early warning and monitoring system for fragmented systems causing duplication in illegal deforestation record-keeping",
+    "description": "Build an AI/IoT-based early warning and monitoring system that addresses: The Ministry of Environment, Forest & Climate Change faces Fragmented systems causing duplication in illegal deforestation record-keeping. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment. The solution should be deployable within 6 months, cost-efficient, and interoperable with existing government IT systems.",
+    "sector": "Environment, Forest & Climate Change",
+    "required_technologies": [
+      "Mobile App",
+      "GIS Mapping",
+      "Blockchain"
+    ],
+    "budget_range_inr": "\u20b910L - \u20b950L",
+    "timeline_months": 9,
+    "status": "PUBLISHED",
+    "ai_generated": true,
+    "created_at": "2025-06-19T00:00:00",
+    "synthetic": true
+  },
+  {
+    "challenge_id": "CHAL009",
+    "problem_id": "PROB016",
+    "department_id": "DEPT008",
+    "title": "Build a citizen-facing app with offline-first data sync for lack of real-time visibility into urban flooding across rural blocks",
+    "description": "Build a citizen-facing app with offline-first data sync that addresses: The Ministry of Urban Development faces Lack of real-time visibility into urban flooding across rural blocks. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment. The solution should be deployable within 6 months, cost-efficient, and interoperable with existing government IT systems.",
+    "sector": "Urban Development",
+    "required_technologies": [
+      "AI/ML",
+      "Cloud Analytics",
+      "NLP"
+    ],
+    "budget_range_inr": "\u20b910L - \u20b950L",
+    "timeline_months": 3,
+    "status": "PUBLISHED",
+    "ai_generated": true,
+    "created_at": "2025-04-20T00:00:00",
+    "synthetic": true
+  },
+  {
+    "challenge_id": "CHAL010",
+    "problem_id": "PROB004",
+    "department_id": "DEPT002",
+    "title": "Develop a mobile-first data collection and verification platform for fragmented systems causing duplication in disease outbreak record-keeping",
+    "description": "Develop a mobile-first data collection and verification platform that addresses: The Ministry of Health & Family Welfare faces Fragmented systems causing duplication in disease outbreak record-keeping. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment. The solution should be deployable within 6 months, cost-efficient, and interoperable with existing government IT systems.",
+    "sector": "Health & Family Welfare",
+    "required_technologies": [
+      "AI/ML",
+      "Blockchain",
+      "IoT"
+    ],
+    "budget_range_inr": "\u20b910L - \u20b950L",
+    "timeline_months": 12,
+    "status": "DRAFT",
+    "ai_generated": true,
+    "created_at": "2025-08-14T00:00:00",
+    "synthetic": true
+  },
+  {
+    "challenge_id": "CHAL011",
+    "problem_id": "PROB019",
+    "department_id": "DEPT010",
+    "title": "Build a citizen-facing app with offline-first data sync for limited access to affordable msme loan disbursement solutions for underserved regions",
+    "description": "Build a citizen-facing app with offline-first data sync that addresses: The Ministry of Micro, Small & Medium Enterprises faces Limited access to affordable MSME loan disbursement solutions for underserved regions. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment. The solution should be deployable within 6 months, cost-efficient, and interoperable with existing government IT systems.",
+    "sector": "Micro, Small & Medium Enterprises",
+    "required_technologies": [
+      "Satellite Imagery",
+      "Edge Computing",
+      "NLP"
+    ],
+    "budget_range_inr": "\u20b91Cr - \u20b95Cr",
+    "timeline_months": 6,
+    "status": "PUBLISHED",
+    "ai_generated": true,
+    "created_at": "2025-06-16T00:00:00",
+    "synthetic": true
+  },
+  {
+    "challenge_id": "CHAL012",
+    "problem_id": "PROB001",
+    "department_id": "DEPT001",
+    "title": "Build a citizen-facing app with offline-first data sync for lack of real-time visibility into housing scheme beneficiary across rural blocks",
+    "description": "Build a citizen-facing app with offline-first data sync that addresses: The Ministry of Rural Development faces Lack of real-time visibility into housing scheme beneficiary across rural blocks. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment. The solution should be deployable within 6 months, cost-efficient, and interoperable with existing government IT systems.",
+    "sector": "Rural Development",
+    "required_technologies": [
+      "Computer Vision",
+      "Blockchain",
+      "GIS Mapping"
+    ],
+    "budget_range_inr": "\u20b91Cr - \u20b95Cr",
+    "timeline_months": 9,
+    "status": "PUBLISHED",
+    "ai_generated": true,
+    "created_at": "2025-07-22T00:00:00",
+    "synthetic": true
+  },
+  {
+    "challenge_id": "CHAL013",
+    "problem_id": "PROB014",
+    "department_id": "DEPT007",
+    "title": "Create a predictive analytics solution using satellite and sensor data for lack of real-time visibility into school infrastructure across rural blocks",
+    "description": "Create a predictive analytics solution using satellite and sensor data that addresses: The Ministry of Education faces Lack of real-time visibility into school infrastructure across rural blocks. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment. The solution should be deployable within 6 months, cost-efficient, and interoperable with existing government IT systems.",
+    "sector": "Education",
+    "required_technologies": [
+      "NLP",
+      "GIS Mapping",
+      "Edge Computing"
+    ],
+    "budget_range_inr": "\u20b910L - \u20b950L",
+    "timeline_months": 6,
+    "status": "PUBLISHED",
+    "ai_generated": true,
+    "created_at": "2025-02-17T00:00:00",
+    "synthetic": true
+  },
+  {
+    "challenge_id": "CHAL014",
+    "problem_id": "PROB007",
+    "department_id": "DEPT004",
+    "title": "Create a predictive analytics solution using satellite and sensor data for difficulty predicting road accident risks before they escalate",
+    "description": "Create a predictive analytics solution using satellite and sensor data that addresses: The Ministry of Road Transport & Highways faces Difficulty predicting road accident risks before they escalate. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment. The solution should be deployable within 6 months, cost-efficient, and interoperable with existing government IT systems.",
+    "sector": "Road Transport & Highways",
+    "required_technologies": [
+      "AI/ML",
+      "GIS Mapping",
+      "Blockchain"
+    ],
+    "budget_range_inr": "\u20b91Cr - \u20b95Cr",
+    "timeline_months": 6,
+    "status": "DRAFT",
+    "ai_generated": true,
+    "created_at": "2025-02-19T00:00:00",
+    "synthetic": true
+  },
+  {
+    "challenge_id": "CHAL015",
+    "problem_id": "PROB017",
+    "department_id": "DEPT009",
+    "title": "Build an AI/IoT-based early warning and monitoring system for limited access to affordable groundwater depletion solutions for underserved regions",
+    "description": "Build an AI/IoT-based early warning and monitoring system that addresses: The Ministry of Jal Shakti faces Limited access to affordable groundwater depletion solutions for underserved regions. This impacts service delivery and requires a technology-driven, scalable intervention suitable for pan-India or regional deployment. The solution should be deployable within 6 months, cost-efficient, and interoperable with existing government IT systems.",
+    "sector": "Jal Shakti",
+    "required_technologies": [
+      "Blockchain",
+      "IoT",
+      "AI/ML"
+    ],
+    "budget_range_inr": "\u20b950L - \u20b91Cr",
+    "timeline_months": 3,
+    "status": "PUBLISHED",
+    "ai_generated": true,
+    "created_at": "2025-04-13T00:00:00",
+    "synthetic": true
+  }
+]

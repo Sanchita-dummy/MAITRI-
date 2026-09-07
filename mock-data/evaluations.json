@@ -1,0 +1,342 @@
+[
+  {
+    "evaluation_id": "EVAL001",
+    "application_id": "APP015",
+    "scores": {
+      "technical_feasibility": 93,
+      "expected_impact": 83,
+      "pilot_readiness": 62,
+      "scalability": 48,
+      "security": 99,
+      "cost_efficiency": 75
+    },
+    "total_score": 76.7,
+    "recommendation": "APPROVE",
+    "reasoning": null,
+    "evaluated_at": "2025-06-21T00:00:00",
+    "synthetic": true
+  },
+  {
+    "evaluation_id": "EVAL002",
+    "application_id": "APP026",
+    "scores": {
+      "technical_feasibility": 87,
+      "expected_impact": 61,
+      "pilot_readiness": 89,
+      "scalability": 48,
+      "security": 77,
+      "cost_efficiency": 72
+    },
+    "total_score": 72.3,
+    "recommendation": "APPROVE",
+    "reasoning": null,
+    "evaluated_at": "2025-04-08T00:00:00",
+    "synthetic": true
+  },
+  {
+    "evaluation_id": "EVAL003",
+    "application_id": "APP018",
+    "scores": {
+      "technical_feasibility": 57,
+      "expected_impact": 83,
+      "pilot_readiness": 49,
+      "scalability": 59,
+      "security": 60,
+      "cost_efficiency": 50
+    },
+    "total_score": 59.7,
+    "recommendation": "REVIEW",
+    "reasoning": null,
+    "evaluated_at": "2025-05-12T00:00:00",
+    "synthetic": true
+  },
+  {
+    "evaluation_id": "EVAL004",
+    "application_id": "APP005",
+    "scores": {
+      "technical_feasibility": 95,
+      "expected_impact": 64,
+      "pilot_readiness": 62,
+      "scalability": 100,
+      "security": 83,
+      "cost_efficiency": 97
+    },
+    "total_score": 83.5,
+    "recommendation": "APPROVE",
+    "reasoning": null,
+    "evaluated_at": "2025-05-07T00:00:00",
+    "synthetic": true
+  },
+  {
+    "evaluation_id": "EVAL005",
+    "application_id": "APP020",
+    "scores": {
+      "technical_feasibility": 55,
+      "expected_impact": 66,
+      "pilot_readiness": 52,
+      "scalability": 80,
+      "security": 85,
+      "cost_efficiency": 57
+    },
+    "total_score": 65.8,
+    "recommendation": "REVIEW",
+    "reasoning": null,
+    "evaluated_at": "2025-04-17T00:00:00",
+    "synthetic": true
+  },
+  {
+    "evaluation_id": "EVAL006",
+    "application_id": "APP003",
+    "scores": {
+      "technical_feasibility": 90,
+      "expected_impact": 69,
+      "pilot_readiness": 79,
+      "scalability": 74,
+      "security": 55,
+      "cost_efficiency": 72
+    },
+    "total_score": 73.2,
+    "recommendation": "APPROVE",
+    "reasoning": null,
+    "evaluated_at": "2025-06-22T00:00:00",
+    "synthetic": true
+  },
+  {
+    "evaluation_id": "EVAL007",
+    "application_id": "APP025",
+    "scores": {
+      "technical_feasibility": 60,
+      "expected_impact": 87,
+      "pilot_readiness": 100,
+      "scalability": 77,
+      "security": 59,
+      "cost_efficiency": 50
+    },
+    "total_score": 72.2,
+    "recommendation": "APPROVE",
+    "reasoning": null,
+    "evaluated_at": "2025-06-24T00:00:00",
+    "synthetic": true
+  },
+  {
+    "evaluation_id": "EVAL008",
+    "application_id": "APP010",
+    "scores": {
+      "technical_feasibility": 89,
+      "expected_impact": 96,
+      "pilot_readiness": 97,
+      "scalability": 78,
+      "security": 71,
+      "cost_efficiency": 93
+    },
+    "total_score": 87.3,
+    "recommendation": "APPROVE",
+    "reasoning": null,
+    "evaluated_at": "2025-06-12T00:00:00",
+    "synthetic": true
+  },
+  {
+    "evaluation_id": "EVAL009",
+    "application_id": "APP013",
+    "scores": {
+      "technical_feasibility": 52,
+      "expected_impact": 51,
+      "pilot_readiness": 45,
+      "scalability": 42,
+      "security": 91,
+      "cost_efficiency": 89
+    },
+    "total_score": 61.7,
+    "recommendation": "REVIEW",
+    "reasoning": null,
+    "evaluated_at": "2025-06-13T00:00:00",
+    "synthetic": true
+  },
+  {
+    "evaluation_id": "EVAL010",
+    "application_id": "APP016",
+    "scores": {
+      "technical_feasibility": 66,
+      "expected_impact": 91,
+      "pilot_readiness": 53,
+      "scalability": 89,
+      "security": 86,
+      "cost_efficiency": 66
+    },
+    "total_score": 75.2,
+    "recommendation": "APPROVE",
+    "reasoning": null,
+    "evaluated_at": "2025-06-19T00:00:00",
+    "synthetic": true
+  },
+  {
+    "evaluation_id": "EVAL011",
+    "application_id": "APP017",
+    "scores": {
+      "technical_feasibility": 90,
+      "expected_impact": 51,
+      "pilot_readiness": 71,
+      "scalability": 96,
+      "security": 90,
+      "cost_efficiency": 74
+    },
+    "total_score": 78.7,
+    "recommendation": "APPROVE",
+    "reasoning": null,
+    "evaluated_at": "2025-05-08T00:00:00",
+    "synthetic": true
+  },
+  {
+    "evaluation_id": "EVAL012",
+    "application_id": "APP014",
+    "scores": {
+      "technical_feasibility": 91,
+      "expected_impact": 69,
+      "pilot_readiness": 70,
+      "scalability": 55,
+      "security": 93,
+      "cost_efficiency": 65
+    },
+    "total_score": 73.8,
+    "recommendation": "APPROVE",
+    "reasoning": null,
+    "evaluated_at": "2025-05-09T00:00:00",
+    "synthetic": true
+  },
+  {
+    "evaluation_id": "EVAL013",
+    "application_id": "APP019",
+    "scores": {
+      "technical_feasibility": 79,
+      "expected_impact": 54,
+      "pilot_readiness": 84,
+      "scalability": 43,
+      "security": 60,
+      "cost_efficiency": 68
+    },
+    "total_score": 64.7,
+    "recommendation": "REVIEW",
+    "reasoning": null,
+    "evaluated_at": "2025-05-24T00:00:00",
+    "synthetic": true
+  },
+  {
+    "evaluation_id": "EVAL014",
+    "application_id": "APP024",
+    "scores": {
+      "technical_feasibility": 80,
+      "expected_impact": 79,
+      "pilot_readiness": 53,
+      "scalability": 61,
+      "security": 88,
+      "cost_efficiency": 49
+    },
+    "total_score": 68.3,
+    "recommendation": "REVIEW",
+    "reasoning": null,
+    "evaluated_at": "2025-05-11T00:00:00",
+    "synthetic": true
+  },
+  {
+    "evaluation_id": "EVAL015",
+    "application_id": "APP027",
+    "scores": {
+      "technical_feasibility": 95,
+      "expected_impact": 70,
+      "pilot_readiness": 86,
+      "scalability": 95,
+      "security": 72,
+      "cost_efficiency": 65
+    },
+    "total_score": 80.5,
+    "recommendation": "APPROVE",
+    "reasoning": null,
+    "evaluated_at": "2025-04-17T00:00:00",
+    "synthetic": true
+  },
+  {
+    "evaluation_id": "EVAL016",
+    "application_id": "APP006",
+    "scores": {
+      "technical_feasibility": 98,
+      "expected_impact": 73,
+      "pilot_readiness": 72,
+      "scalability": 75,
+      "security": 56,
+      "cost_efficiency": 60
+    },
+    "total_score": 72.3,
+    "recommendation": "APPROVE",
+    "reasoning": null,
+    "evaluated_at": "2025-05-01T00:00:00",
+    "synthetic": true
+  },
+  {
+    "evaluation_id": "EVAL017",
+    "application_id": "APP011",
+    "scores": {
+      "technical_feasibility": 79,
+      "expected_impact": 57,
+      "pilot_readiness": 57,
+      "scalability": 68,
+      "security": 65,
+      "cost_efficiency": 49
+    },
+    "total_score": 62.5,
+    "recommendation": "REVIEW",
+    "reasoning": null,
+    "evaluated_at": "2025-04-13T00:00:00",
+    "synthetic": true
+  },
+  {
+    "evaluation_id": "EVAL018",
+    "application_id": "APP002",
+    "scores": {
+      "technical_feasibility": 53,
+      "expected_impact": 68,
+      "pilot_readiness": 100,
+      "scalability": 64,
+      "security": 89,
+      "cost_efficiency": 66
+    },
+    "total_score": 73.3,
+    "recommendation": "APPROVE",
+    "reasoning": null,
+    "evaluated_at": "2025-05-02T00:00:00",
+    "synthetic": true
+  },
+  {
+    "evaluation_id": "EVAL019",
+    "application_id": "APP008",
+    "scores": {
+      "technical_feasibility": 60,
+      "expected_impact": 70,
+      "pilot_readiness": 99,
+      "scalability": 76,
+      "security": 96,
+      "cost_efficiency": 60
+    },
+    "total_score": 76.8,
+    "recommendation": "APPROVE",
+    "reasoning": null,
+    "evaluated_at": "2025-04-25T00:00:00",
+    "synthetic": true
+  },
+  {
+    "evaluation_id": "EVAL020",
+    "application_id": "APP012",
+    "scores": {
+      "technical_feasibility": 98,
+      "expected_impact": 60,
+      "pilot_readiness": 71,
+      "scalability": 72,
+      "security": 79,
+      "cost_efficiency": 71
+    },
+    "total_score": 75.2,
+    "recommendation": "APPROVE",
+    "reasoning": null,
+    "evaluated_at": "2025-05-10T00:00:00",
+    "synthetic": true
+  }
+]

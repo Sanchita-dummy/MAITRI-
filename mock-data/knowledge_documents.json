@@ -1,0 +1,242 @@
+[
+  {
+    "doc_id": "KDOC001",
+    "title": "Public Procurement of Innovation",
+    "category": "Governance",
+    "content": "Public Procurement of Innovation: Guidelines for government departments to procure innovative solutions from startups outside standard L1 tendering, using pilot-first and outcome-based contracts. This guideline applies primarily to the MobilityTech, GovTech, FinTech for MSME sector(s). Departments and startups engaging in innovation pilots should reference this guidance when structuring procurement, evaluation, or deployment activities. Note: this is illustrative synthetic guidance for a hackathon prototype and does not represent binding government policy.",
+    "source_policy_id": "POL001",
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC002",
+    "title": "Startup India Eligibility Framework",
+    "category": "Governance",
+    "content": "Startup India Eligibility Framework: Defines criteria for an entity to be recognized as a startup, including incorporation age, turnover limits, and innovation criteria. This guideline applies primarily to the Smart Infrastructure, FinTech for MSME sector(s). Departments and startups engaging in innovation pilots should reference this guidance when structuring procurement, evaluation, or deployment activities. Note: this is illustrative synthetic guidance for a hackathon prototype and does not represent binding government policy.",
+    "source_policy_id": "POL002",
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC003",
+    "title": "AI Governance Principles",
+    "category": "Sustainability",
+    "content": "AI Governance Principles: Principles for responsible AI deployment in government systems including explainability, human oversight, and bias mitigation. This guideline applies primarily to the WaterTech, Climate & Environment sector(s). Departments and startups engaging in innovation pilots should reference this guidance when structuring procurement, evaluation, or deployment activities. Note: this is illustrative synthetic guidance for a hackathon prototype and does not represent binding government policy.",
+    "source_policy_id": "POL003",
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC004",
+    "title": "Data Localization & Handling Guidelines",
+    "category": "Eligibility",
+    "content": "Data Localization & Handling Guidelines: Requirements for storage of citizen data within national boundaries and encryption standards for sensitive data. This guideline applies primarily to the CleanTech, MobilityTech sector(s). Departments and startups engaging in innovation pilots should reference this guidance when structuring procurement, evaluation, or deployment activities. Note: this is illustrative synthetic guidance for a hackathon prototype and does not represent binding government policy.",
+    "source_policy_id": "POL004",
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC005",
+    "title": "Cybersecurity Baseline for GovTech Vendors",
+    "category": "Eligibility",
+    "content": "Cybersecurity Baseline for GovTech Vendors: Minimum security controls (e.g., ISO 27001 or CERT-In empanelment) required for vendors handling government data. This guideline applies primarily to the GovTech sector(s). Departments and startups engaging in innovation pilots should reference this guidance when structuring procurement, evaluation, or deployment activities. Note: this is illustrative synthetic guidance for a hackathon prototype and does not represent binding government policy.",
+    "source_policy_id": "POL005",
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC006",
+    "title": "Pilot Evaluation Framework",
+    "category": "Procurement",
+    "content": "Pilot Evaluation Framework: Standard framework for evaluating pilot success including KPI baselining, achievement thresholds, and scale-readiness criteria. This guideline applies primarily to the FinTech for MSME, EdTech, HealthTech sector(s). Departments and startups engaging in innovation pilots should reference this guidance when structuring procurement, evaluation, or deployment activities. Note: this is illustrative synthetic guidance for a hackathon prototype and does not represent binding government policy.",
+    "source_policy_id": "POL006",
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC007",
+    "title": "Accessibility Standards for Digital Government Services",
+    "category": "Eligibility",
+    "content": "Accessibility Standards for Digital Government Services: Requirements for WCAG 2.1 AA compliance and multi-lingual access in citizen-facing digital services. This guideline applies primarily to the GovTech sector(s). Departments and startups engaging in innovation pilots should reference this guidance when structuring procurement, evaluation, or deployment activities. Note: this is illustrative synthetic guidance for a hackathon prototype and does not represent binding government policy.",
+    "source_policy_id": "POL007",
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC008",
+    "title": "Sustainability & ESG Guidelines for Public Contracts",
+    "category": "Procurement",
+    "content": "Sustainability & ESG Guidelines for Public Contracts: Environmental and social governance expectations for vendors delivering infrastructure or climate-related solutions. This guideline applies primarily to the GovTech sector(s). Departments and startups engaging in innovation pilots should reference this guidance when structuring procurement, evaluation, or deployment activities. Note: this is illustrative synthetic guidance for a hackathon prototype and does not represent binding government policy.",
+    "source_policy_id": "POL008",
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC009",
+    "title": "GeM Registration Requirements",
+    "category": "Sustainability",
+    "content": "GeM Registration Requirements: Process and eligibility for startups to list products/services on the Government e-Marketplace. This guideline applies primarily to the CleanTech, WaterTech, HealthTech sector(s). Departments and startups engaging in innovation pilots should reference this guidance when structuring procurement, evaluation, or deployment activities. Note: this is illustrative synthetic guidance for a hackathon prototype and does not represent binding government policy.",
+    "source_policy_id": "POL009",
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC010",
+    "title": "TRL-Based Procurement Readiness",
+    "category": "Governance",
+    "content": "TRL-Based Procurement Readiness: Guidelines mapping Technology Readiness Level to appropriate procurement/pilot pathways. This guideline applies primarily to the EdTech, AgriTech sector(s). Departments and startups engaging in innovation pilots should reference this guidance when structuring procurement, evaluation, or deployment activities. Note: this is illustrative synthetic guidance for a hackathon prototype and does not represent binding government policy.",
+    "source_policy_id": "POL010",
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC011",
+    "title": "Data Privacy for Citizen Health Records",
+    "category": "Sustainability",
+    "content": "Data Privacy for Citizen Health Records: Handling requirements for health data collected during HealthTech pilots, aligned with the Digital Personal Data Protection framework. This guideline applies primarily to the WaterTech sector(s). Departments and startups engaging in innovation pilots should reference this guidance when structuring procurement, evaluation, or deployment activities. Note: this is illustrative synthetic guidance for a hackathon prototype and does not represent binding government policy.",
+    "source_policy_id": "POL011",
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC012",
+    "title": "MSME & Startup Credit Facilitation Policy",
+    "category": "Eligibility",
+    "content": "MSME & Startup Credit Facilitation Policy: Framework for facilitating working capital access to startups engaged in government pilots. This guideline applies primarily to the MobilityTech, WaterTech sector(s). Departments and startups engaging in innovation pilots should reference this guidance when structuring procurement, evaluation, or deployment activities. Note: this is illustrative synthetic guidance for a hackathon prototype and does not represent binding government policy.",
+    "source_policy_id": "POL012",
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC013",
+    "title": "Rural Deployment Incentive Scheme",
+    "category": "Procurement",
+    "content": "Rural Deployment Incentive Scheme: Incentives for startups deploying solutions in Tier-3/Tier-4 towns and rural blocks. This guideline applies primarily to the MobilityTech, AgriTech sector(s). Departments and startups engaging in innovation pilots should reference this guidance when structuring procurement, evaluation, or deployment activities. Note: this is illustrative synthetic guidance for a hackathon prototype and does not represent binding government policy.",
+    "source_policy_id": "POL013",
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC014",
+    "title": "Open Government Data Usage Policy",
+    "category": "Data & Security",
+    "content": "Open Government Data Usage Policy: Terms under which startups may use open government datasets for building solutions. This guideline applies primarily to the EdTech sector(s). Departments and startups engaging in innovation pilots should reference this guidance when structuring procurement, evaluation, or deployment activities. Note: this is illustrative synthetic guidance for a hackathon prototype and does not represent binding government policy.",
+    "source_policy_id": "POL014",
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC015",
+    "title": "Innovation Challenge Design Guidelines",
+    "category": "Governance",
+    "content": "Innovation Challenge Design Guidelines: Best practices for departments framing problem statements as innovation challenges. This guideline applies primarily to the AgriTech sector(s). Departments and startups engaging in innovation pilots should reference this guidance when structuring procurement, evaluation, or deployment activities. Note: this is illustrative synthetic guidance for a hackathon prototype and does not represent binding government policy.",
+    "source_policy_id": "POL015",
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC016",
+    "title": "Understanding Technology Readiness Levels (TRL)",
+    "category": "Eligibility",
+    "content": "TRL is a 1-9 scale describing the maturity of a technology, from basic principles observed (TRL 1) to actual system proven in operational environment (TRL 9). Government pilots typically require TRL 4-6 for pilot-stage deployment and TRL 7+ for direct procurement.",
+    "source_policy_id": null,
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC017",
+    "title": "Cybersecurity Requirements Overview for GovTech Pilots",
+    "category": "Data & Security",
+    "content": "Startups handling citizen or government data should maintain baseline controls: encryption at rest and in transit, role-based access control, audit logging, and periodic vulnerability assessments. CERT-In empanelment or ISO 27001 certification is recommended for higher-sensitivity workloads.",
+    "source_policy_id": null,
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC018",
+    "title": "Data Handling Guidelines for Pilot Programs",
+    "category": "Data & Security",
+    "content": "Personal or sensitive data collected during pilots must be minimized, anonymized where possible, stored within approved data centers, and deleted per a defined retention schedule after pilot conclusion.",
+    "source_policy_id": null,
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC019",
+    "title": "Accessibility Requirements for Citizen-Facing Applications",
+    "category": "Governance",
+    "content": "Citizen-facing digital services should support screen readers, provide multi-lingual interfaces (including regional languages), and maintain WCAG 2.1 AA compliance for visual and motor accessibility.",
+    "source_policy_id": null,
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC020",
+    "title": "Sustainability Requirements for Infrastructure Pilots",
+    "category": "Sustainability",
+    "content": "Pilots involving physical infrastructure or hardware deployment should account for energy efficiency, e-waste disposal plans, and, where applicable, use of renewable power sources.",
+    "source_policy_id": null,
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC021",
+    "title": "Public Procurement of Innovation: Pilot-First Approach",
+    "category": "Procurement",
+    "content": "Rather than full-scale tendering, departments may run time-boxed pilots (typically 3-6 months) with pre-agreed KPIs before committing to a scaled procurement contract, reducing risk for both parties.",
+    "source_policy_id": null,
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC022",
+    "title": "Eligibility Screening: Government Experience Weighting",
+    "category": "Eligibility",
+    "content": "Prior government pilot experience is a positive but not mandatory signal. First-time vendors may still qualify if they meet TRL, certification, and deployment capacity thresholds.",
+    "source_policy_id": null,
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC023",
+    "title": "AI Explainability Requirements for Public Sector Use",
+    "category": "Governance",
+    "content": "AI systems used in citizen-impacting decisions should provide human-readable justifications for scores or recommendations, and allow for human review before final action is taken.",
+    "source_policy_id": null,
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC024",
+    "title": "Vendor Certification Pathways",
+    "category": "Data & Security",
+    "content": "Startups without existing certifications may pursue STQC testing or CERT-In empanelment during the pilot phase, with full certification required before scale-up.",
+    "source_policy_id": null,
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC025",
+    "title": "Scale Recommendation Criteria",
+    "category": "Procurement",
+    "content": "A pilot is generally recommended for SCALE when KPI achievement exceeds 80% on primary metrics, for ITERATE when between 50-80%, and STOP when below 50% with no clear remediation path.",
+    "source_policy_id": null,
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC026",
+    "title": "Sector Compatibility Guidelines for Matching",
+    "category": "Eligibility",
+    "content": "Startups should be matched to challenges within their declared primary or secondary sector to ensure domain expertise, though cross-sector technology transfer (e.g., AgriTech sensors applied to WaterTech) is permitted with justification.",
+    "source_policy_id": null,
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC027",
+    "title": "Regional Deployment Considerations",
+    "category": "Procurement",
+    "content": "Startups with only pilot-scale deployment capacity should be paired with single-district challenges, while pan-India capable startups may be considered for multi-state rollouts.",
+    "source_policy_id": null,
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC028",
+    "title": "Data Retention and Deletion Guidelines",
+    "category": "Data & Security",
+    "content": "Pilot data should be retained only for the duration necessary for evaluation and audit, typically not exceeding 12 months post-pilot-conclusion unless required for a scaled deployment.",
+    "source_policy_id": null,
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC029",
+    "title": "Innovation Challenge Publication Standards",
+    "category": "Governance",
+    "content": "Published challenges should clearly state the problem, required technologies, budget range, and timeline to ensure startups can self-assess fit before applying.",
+    "source_policy_id": null,
+    "synthetic": true
+  },
+  {
+    "doc_id": "KDOC030",
+    "title": "KPI Baselining Methodology",
+    "category": "Procurement",
+    "content": "Baselines should be measured using pre-pilot data over a comparable time period; achievement percentage is calculated as (actual - baseline) / (target - baseline) * 100.",
+    "source_policy_id": null,
+    "synthetic": true
+  }
+]

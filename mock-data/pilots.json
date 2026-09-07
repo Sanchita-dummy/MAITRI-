@@ -1,0 +1,262 @@
+[
+  {
+    "pilot_id": "PIL001",
+    "application_id": "APP002",
+    "startup_id": "STU003",
+    "challenge_id": "CHAL003",
+    "department_id": "DEPT008",
+    "location": "Nashik, Maharashtra",
+    "duration_months": 3,
+    "milestones": [
+      {
+        "title": "Deployment & onboarding",
+        "done": true
+      },
+      {
+        "title": "Mid-pilot review",
+        "done": true
+      },
+      {
+        "title": "Final KPI assessment",
+        "done": true
+      }
+    ],
+    "status": "COMPLETED",
+    "start_date": "2025-05-12T00:00:00",
+    "synthetic": true
+  },
+  {
+    "pilot_id": "PIL002",
+    "application_id": "APP008",
+    "startup_id": "STU008",
+    "challenge_id": "CHAL005",
+    "department_id": "DEPT005",
+    "location": "Kurnool, Andhra Pradesh",
+    "duration_months": 9,
+    "milestones": [
+      {
+        "title": "Deployment & onboarding",
+        "done": true
+      },
+      {
+        "title": "Mid-pilot review",
+        "done": true
+      },
+      {
+        "title": "Final KPI assessment",
+        "done": true
+      }
+    ],
+    "status": "COMPLETED",
+    "start_date": "2025-06-28T00:00:00",
+    "synthetic": true
+  },
+  {
+    "pilot_id": "PIL003",
+    "application_id": "APP012",
+    "startup_id": "STU019",
+    "challenge_id": "CHAL011",
+    "department_id": "DEPT010",
+    "location": "Sikar, Rajasthan",
+    "duration_months": 3,
+    "milestones": [
+      {
+        "title": "Deployment & onboarding",
+        "done": true
+      },
+      {
+        "title": "Mid-pilot review",
+        "done": true
+      },
+      {
+        "title": "Final KPI assessment",
+        "done": false
+      }
+    ],
+    "status": "ACTIVE",
+    "start_date": "2025-07-14T00:00:00",
+    "synthetic": true
+  },
+  {
+    "pilot_id": "PIL004",
+    "application_id": "APP013",
+    "startup_id": "STU019",
+    "challenge_id": "CHAL013",
+    "department_id": "DEPT007",
+    "location": "Bastar, Chhattisgarh",
+    "duration_months": 3,
+    "milestones": [
+      {
+        "title": "Deployment & onboarding",
+        "done": true
+      },
+      {
+        "title": "Mid-pilot review",
+        "done": true
+      },
+      {
+        "title": "Final KPI assessment",
+        "done": true
+      }
+    ],
+    "status": "COMPLETED",
+    "start_date": "2025-05-07T00:00:00",
+    "synthetic": true
+  },
+  {
+    "pilot_id": "PIL005",
+    "application_id": "APP018",
+    "startup_id": "STU042",
+    "challenge_id": "CHAL004",
+    "department_id": "DEPT007",
+    "location": "Dhenkanal, Odisha",
+    "duration_months": 6,
+    "milestones": [
+      {
+        "title": "Deployment & onboarding",
+        "done": true
+      },
+      {
+        "title": "Mid-pilot review",
+        "done": true
+      },
+      {
+        "title": "Final KPI assessment",
+        "done": true
+      }
+    ],
+    "status": "COMPLETED",
+    "start_date": "2025-07-16T00:00:00",
+    "synthetic": true
+  },
+  {
+    "pilot_id": "PIL006",
+    "application_id": "APP021",
+    "startup_id": "STU026",
+    "challenge_id": "CHAL007",
+    "department_id": "DEPT006",
+    "location": "Ballari, Karnataka",
+    "duration_months": 9,
+    "milestones": [
+      {
+        "title": "Deployment & onboarding",
+        "done": true
+      },
+      {
+        "title": "Mid-pilot review",
+        "done": true
+      },
+      {
+        "title": "Final KPI assessment",
+        "done": true
+      }
+    ],
+    "status": "FAILED",
+    "start_date": "2025-06-30T00:00:00",
+    "synthetic": true
+  },
+  {
+    "pilot_id": "PIL007",
+    "application_id": "APP023",
+    "startup_id": "STU008",
+    "challenge_id": "CHAL011",
+    "department_id": "DEPT010",
+    "location": "Sitapur, Uttar Pradesh",
+    "duration_months": 9,
+    "milestones": [
+      {
+        "title": "Deployment & onboarding",
+        "done": true
+      },
+      {
+        "title": "Mid-pilot review",
+        "done": true
+      },
+      {
+        "title": "Final KPI assessment",
+        "done": true
+      }
+    ],
+    "status": "COMPLETED",
+    "start_date": "2025-05-02T00:00:00",
+    "synthetic": true
+  },
+  {
+    "pilot_id": "PIL008",
+    "application_id": "APP024",
+    "startup_id": "STU040",
+    "challenge_id": "CHAL004",
+    "department_id": "DEPT007",
+    "location": "Tirunelveli, Tamil Nadu",
+    "duration_months": 6,
+    "milestones": [
+      {
+        "title": "Deployment & onboarding",
+        "done": true
+      },
+      {
+        "title": "Mid-pilot review",
+        "done": false
+      },
+      {
+        "title": "Final KPI assessment",
+        "done": false
+      }
+    ],
+    "status": "PLANNED",
+    "start_date": "2025-05-18T00:00:00",
+    "synthetic": true
+  },
+  {
+    "pilot_id": "PIL009",
+    "application_id": "APP030",
+    "startup_id": "STU002",
+    "challenge_id": "CHAL009",
+    "department_id": "DEPT008",
+    "location": "Kutch, Gujarat",
+    "duration_months": 9,
+    "milestones": [
+      {
+        "title": "Deployment & onboarding",
+        "done": true
+      },
+      {
+        "title": "Mid-pilot review",
+        "done": true
+      },
+      {
+        "title": "Final KPI assessment",
+        "done": true
+      }
+    ],
+    "status": "COMPLETED",
+    "start_date": "2025-06-16T00:00:00",
+    "synthetic": true
+  },
+  {
+    "pilot_id": "PIL010",
+    "application_id": "APP002",
+    "startup_id": "STU003",
+    "challenge_id": "CHAL003",
+    "department_id": "DEPT008",
+    "location": "Rewa, Madhya Pradesh",
+    "duration_months": 6,
+    "milestones": [
+      {
+        "title": "Deployment & onboarding",
+        "done": true
+      },
+      {
+        "title": "Mid-pilot review",
+        "done": true
+      },
+      {
+        "title": "Final KPI assessment",
+        "done": true
+      }
+    ],
+    "status": "COMPLETED",
+    "start_date": "2025-05-06T00:00:00",
+    "synthetic": true
+  }
+]

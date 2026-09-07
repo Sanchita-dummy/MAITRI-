@@ -1,0 +1,179 @@
+[
+  {
+    "policy_id": "POL001",
+    "title": "Public Procurement of Innovation",
+    "description": "Guidelines for government departments to procure innovative solutions from startups outside standard L1 tendering, using pilot-first and outcome-based contracts.",
+    "category": "Governance",
+    "applies_to_sectors": [
+      "MobilityTech",
+      "GovTech",
+      "FinTech for MSME"
+    ],
+    "synthetic": true,
+    "note": "This is a synthetic policy created for prototype purposes and does not represent an actual government policy."
+  },
+  {
+    "policy_id": "POL002",
+    "title": "Startup India Eligibility Framework",
+    "description": "Defines criteria for an entity to be recognized as a startup, including incorporation age, turnover limits, and innovation criteria.",
+    "category": "Governance",
+    "applies_to_sectors": [
+      "Smart Infrastructure",
+      "FinTech for MSME"
+    ],
+    "synthetic": true,
+    "note": "This is a synthetic policy created for prototype purposes and does not represent an actual government policy."
+  },
+  {
+    "policy_id": "POL003",
+    "title": "AI Governance Principles",
+    "description": "Principles for responsible AI deployment in government systems including explainability, human oversight, and bias mitigation.",
+    "category": "Sustainability",
+    "applies_to_sectors": [
+      "WaterTech",
+      "Climate & Environment"
+    ],
+    "synthetic": true,
+    "note": "This is a synthetic policy created for prototype purposes and does not represent an actual government policy."
+  },
+  {
+    "policy_id": "POL004",
+    "title": "Data Localization & Handling Guidelines",
+    "description": "Requirements for storage of citizen data within national boundaries and encryption standards for sensitive data.",
+    "category": "Eligibility",
+    "applies_to_sectors": [
+      "CleanTech",
+      "MobilityTech"
+    ],
+    "synthetic": true,
+    "note": "This is a synthetic policy created for prototype purposes and does not represent an actual government policy."
+  },
+  {
+    "policy_id": "POL005",
+    "title": "Cybersecurity Baseline for GovTech Vendors",
+    "description": "Minimum security controls (e.g., ISO 27001 or CERT-In empanelment) required for vendors handling government data.",
+    "category": "Eligibility",
+    "applies_to_sectors": [
+      "GovTech"
+    ],
+    "synthetic": true,
+    "note": "This is a synthetic policy created for prototype purposes and does not represent an actual government policy."
+  },
+  {
+    "policy_id": "POL006",
+    "title": "Pilot Evaluation Framework",
+    "description": "Standard framework for evaluating pilot success including KPI baselining, achievement thresholds, and scale-readiness criteria.",
+    "category": "Procurement",
+    "applies_to_sectors": [
+      "FinTech for MSME",
+      "EdTech",
+      "HealthTech"
+    ],
+    "synthetic": true,
+    "note": "This is a synthetic policy created for prototype purposes and does not represent an actual government policy."
+  },
+  {
+    "policy_id": "POL007",
+    "title": "Accessibility Standards for Digital Government Services",
+    "description": "Requirements for WCAG 2.1 AA compliance and multi-lingual access in citizen-facing digital services.",
+    "category": "Eligibility",
+    "applies_to_sectors": [
+      "GovTech"
+    ],
+    "synthetic": true,
+    "note": "This is a synthetic policy created for prototype purposes and does not represent an actual government policy."
+  },
+  {
+    "policy_id": "POL008",
+    "title": "Sustainability & ESG Guidelines for Public Contracts",
+    "description": "Environmental and social governance expectations for vendors delivering infrastructure or climate-related solutions.",
+    "category": "Procurement",
+    "applies_to_sectors": [
+      "GovTech"
+    ],
+    "synthetic": true,
+    "note": "This is a synthetic policy created for prototype purposes and does not represent an actual government policy."
+  },
+  {
+    "policy_id": "POL009",
+    "title": "GeM Registration Requirements",
+    "description": "Process and eligibility for startups to list products/services on the Government e-Marketplace.",
+    "category": "Sustainability",
+    "applies_to_sectors": [
+      "CleanTech",
+      "WaterTech",
+      "HealthTech"
+    ],
+    "synthetic": true,
+    "note": "This is a synthetic policy created for prototype purposes and does not represent an actual government policy."
+  },
+  {
+    "policy_id": "POL010",
+    "title": "TRL-Based Procurement Readiness",
+    "description": "Guidelines mapping Technology Readiness Level to appropriate procurement/pilot pathways.",
+    "category": "Governance",
+    "applies_to_sectors": [
+      "EdTech",
+      "AgriTech"
+    ],
+    "synthetic": true,
+    "note": "This is a synthetic policy created for prototype purposes and does not represent an actual government policy."
+  },
+  {
+    "policy_id": "POL011",
+    "title": "Data Privacy for Citizen Health Records",
+    "description": "Handling requirements for health data collected during HealthTech pilots, aligned with the Digital Personal Data Protection framework.",
+    "category": "Sustainability",
+    "applies_to_sectors": [
+      "WaterTech"
+    ],
+    "synthetic": true,
+    "note": "This is a synthetic policy created for prototype purposes and does not represent an actual government policy."
+  },
+  {
+    "policy_id": "POL012",
+    "title": "MSME & Startup Credit Facilitation Policy",
+    "description": "Framework for facilitating working capital access to startups engaged in government pilots.",
+    "category": "Eligibility",
+    "applies_to_sectors": [
+      "MobilityTech",
+      "WaterTech"
+    ],
+    "synthetic": true,
+    "note": "This is a synthetic policy created for prototype purposes and does not represent an actual government policy."
+  },
+  {
+    "policy_id": "POL013",
+    "title": "Rural Deployment Incentive Scheme",
+    "description": "Incentives for startups deploying solutions in Tier-3/Tier-4 towns and rural blocks.",
+    "category": "Procurement",
+    "applies_to_sectors": [
+      "MobilityTech",
+      "AgriTech"
+    ],
+    "synthetic": true,
+    "note": "This is a synthetic policy created for prototype purposes and does not represent an actual government policy."
+  },
+  {
+    "policy_id": "POL014",
+    "title": "Open Government Data Usage Policy",
+    "description": "Terms under which startups may use open government datasets for building solutions.",
+    "category": "Data & Security",
+    "applies_to_sectors": [
+      "EdTech"
+    ],
+    "synthetic": true,
+    "note": "This is a synthetic policy created for prototype purposes and does not represent an actual government policy."
+  },
+  {
+    "policy_id": "POL015",
+    "title": "Innovation Challenge Design Guidelines",
+    "description": "Best practices for departments framing problem statements as innovation challenges.",
+    "category": "Governance",
+    "applies_to_sectors": [
+      "AgriTech"
+    ],
+    "synthetic": true,
+    "note": "This is a synthetic policy created for prototype purposes and does not represent an actual government policy."
+  }
+]
