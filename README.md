@@ -94,8 +94,3 @@ FastAPI documentation is available at **http://localhost:8000/docs**.
 3. Ensure code passes `flake8`/`black` formatting.
 4. Open a pull request with a clear description and screenshots.
 
-## License
-This project is licensed under the **MIT License** – see `LICENSE` for details.
-
-## Screenshots & Demo
-*(Add GIFs or screenshots of the UI here to showcase the workflow.)*
